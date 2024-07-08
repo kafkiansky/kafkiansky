@@ -1,8 +1,8 @@
 #### Recent Contributions
 
 - [kafkiansky/PHPClick](https://github.com/kafkiansky/PHPClick) - Async PHP Client for ClickHouse. (1 week ago)
-- [kafkiansky/itertools](https://github.com/kafkiansky/itertools) - Iterators for Go. (1 week ago)
-- [kafkiansky/service-locator-interrupter](https://github.com/kafkiansky/service-locator-interrupter) - Psalm plugin that interrupt service locator usage for Laravel applications. (1 week ago)
+- [kafkiansky/itertools](https://github.com/kafkiansky/itertools) - Iterators for Go. (2 weeks ago)
+- [kafkiansky/service-locator-interrupter](https://github.com/kafkiansky/service-locator-interrupter) - Psalm plugin that interrupt service locator usage for Laravel applications. (2 weeks ago)
 
 ---
 
