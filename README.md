@@ -1,8 +1,8 @@
 #### Recent Contributions
 
 - [kafkiansky/binary](https://github.com/kafkiansky/binary) - Tool for manipulating with bytes. (today)
+- [kafkiansky/prototype](https://github.com/kafkiansky/prototype) - A modern strictly typed full-featured library for protobuf serialization in PHP. (today)
 - [kafkiansky/PHPClick](https://github.com/kafkiansky/PHPClick) - Async PHP Client for ClickHouse. (1 week ago)
-- [kafkiansky/itertools](https://github.com/kafkiansky/itertools) - Iterators for Go. (2 weeks ago)
 
 ---
 
