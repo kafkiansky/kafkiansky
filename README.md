@@ -1,7 +1,7 @@
 #### Recent Contributions
 
+- [kafkiansky/prototype](https://github.com/kafkiansky/prototype) - A modern strictly typed full-featured library for protobuf serialization in PHP. (today)
 - [kafkiansky/binary](https://github.com/kafkiansky/binary) - Tool for manipulating with bytes. (1 day ago)
-- [kafkiansky/prototype](https://github.com/kafkiansky/prototype) - A modern strictly typed full-featured library for protobuf serialization in PHP. (1 day ago)
 - [kafkiansky/PHPClick](https://github.com/kafkiansky/PHPClick) - Async PHP Client for ClickHouse. (1 week ago)
 
 ---
