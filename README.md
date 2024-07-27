@@ -1,8 +1,8 @@
 #### Recent Contributions
 
+- [prototype-php/prototype](https://github.com/prototype-php/prototype) - A modern strictly typed full-featured library for grpc and protobuf serialization (today)
+- [prototype-php/serializer](https://github.com/prototype-php/serializer) - A modern strictly typed full-featured library for protobuf serialization without an inheritance (readonly subsplit of monorepo) (today)
 - [kafkiansky/prototype](https://github.com/kafkiansky/prototype) - A modern strictly typed full-featured library for protobuf serialization in PHP. (today)
-- [kafkiansky/binary](https://github.com/kafkiansky/binary) - Tool for manipulating with bytes. (1 week ago)
-- [kafkiansky/PHPClick](https://github.com/kafkiansky/PHPClick) - Async PHP Client for ClickHouse. (3 weeks ago)
 
 ---
 
