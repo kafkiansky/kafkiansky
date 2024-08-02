@@ -2,7 +2,7 @@
 
 - [prototype-php/prototype](https://github.com/prototype-php/prototype) - A modern strictly typed full-featured library for grpc and protobuf serialization (today)
 - [prototype-php/serializer](https://github.com/prototype-php/serializer) - A modern strictly typed full-featured library for protobuf serialization without an inheritance (readonly subsplit of monorepo) (today)
-- [prototype-php/byte-buffer](https://github.com/prototype-php/byte-buffer) - A tool to write and read bytes using protobuf serialization encoding (readonly subsplit of monorepo)  (today)
+- [prototype-php/grpc](https://github.com/prototype-php/grpc) - A grpc implementation in async php (readonly subsplit of monorepo) (today)
 
 ---
 
