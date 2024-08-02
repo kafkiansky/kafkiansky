@@ -2,15 +2,15 @@
 
 - [prototype-php/prototype](https://github.com/prototype-php/prototype) - A modern strictly typed full-featured library for grpc and protobuf serialization (today)
 - [prototype-php/serializer](https://github.com/prototype-php/serializer) - A modern strictly typed full-featured library for protobuf serialization without an inheritance (readonly subsplit of monorepo) (today)
-- [prototype-php/phpstan-extension](https://github.com/prototype-php/phpstan-extension) - PHPStan extension to resolve protobuf types (readonly subsplit of monorepo) (6 days ago)
+- [prototype-php/byte-buffer](https://github.com/prototype-php/byte-buffer) - A tool to write and read bytes using protobuf serialization encoding (readonly subsplit of monorepo)  (today)
 
 ---
 
 #### Recent Releases
 
-- [prototype-php/serializer](https://github.com/prototype-php/serializer) ([0.1.1](https://github.com/prototype-php/serializer/releases/tag/0.1.1), today) - A modern strictly typed full-featured library for protobuf serialization without an inheritance (readonly subsplit of monorepo)
-- [prototype-php/phpstan-extension](https://github.com/prototype-php/phpstan-extension) ([0.1.1](https://github.com/prototype-php/phpstan-extension/releases/tag/0.1.1), today) - PHPStan extension to resolve protobuf types (readonly subsplit of monorepo)
-- [prototype-php/prototype](https://github.com/prototype-php/prototype) ([0.1.1](https://github.com/prototype-php/prototype/releases/tag/0.1.1), today) - A modern strictly typed full-featured library for grpc and protobuf serialization
+- [prototype-php/byte-buffer](https://github.com/prototype-php/byte-buffer) ([0.1.2](https://github.com/prototype-php/byte-buffer/releases/tag/0.1.2), today) - A tool to write and read bytes using protobuf serialization encoding (readonly subsplit of monorepo) 
+- [prototype-php/prototype](https://github.com/prototype-php/prototype) ([0.1.2](https://github.com/prototype-php/prototype/releases/tag/0.1.2), today) - A modern strictly typed full-featured library for grpc and protobuf serialization
+- [prototype-php/serializer](https://github.com/prototype-php/serializer) ([0.1.2](https://github.com/prototype-php/serializer/releases/tag/0.1.2), today) - A modern strictly typed full-featured library for protobuf serialization without an inheritance (readonly subsplit of monorepo)
 
 ---
 
