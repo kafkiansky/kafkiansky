@@ -1,8 +1,8 @@
 #### Recent Contributions
 
-- [prototype-php/prototype](https://github.com/prototype-php/prototype) - A modern strictly typed full-featured library for grpc and protobuf serialization (5 days ago)
-- [typhoon-php/typhoon](https://github.com/typhoon-php/typhoon) - Ultimate type system and reflection for PHP (5 days ago)
-- [prototype-php/well-known](https://github.com/prototype-php/well-known) - Protobuf well-known types location (readonly subsplit of monorepo) (5 days ago)
+- [prototype-php/compiler](https://github.com/prototype-php/compiler) - A tool for compiling protobuf grammars into modern PHP code (readonly subsplit of monorepo) (today)
+- [prototype-php/well-known](https://github.com/prototype-php/well-known) - Protobuf well-known types location (readonly subsplit of monorepo) (today)
+- [prototype-php/prototype](https://github.com/prototype-php/prototype) - A modern strictly typed full-featured library for grpc and protobuf serialization (today)
 
 ---
 
