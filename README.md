@@ -1,8 +1,8 @@
 #### Recent Contributions
 
+- [prototype-php/grpc](https://github.com/prototype-php/grpc) - A grpc implementation in async php (readonly subsplit of monorepo)  (today)
 - [prototype-php/compiler](https://github.com/prototype-php/compiler) - A tool for compiling protobuf grammars into modern PHP code (readonly subsplit of monorepo) (today)
 - [prototype-php/prototype](https://github.com/prototype-php/prototype) - A modern strictly typed full-featured library for grpc and protobuf serialization (today)
-- [prototype-php/grpc](https://github.com/prototype-php/grpc) - A grpc implementation in async php (readonly subsplit of monorepo)  (1 day ago)
 
 ---
 
