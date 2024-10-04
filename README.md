@@ -1,8 +1,8 @@
 #### Recent Contributions
 
+- [prototype-php/serializer](https://github.com/prototype-php/serializer) - A modern strictly typed full-featured library for protobuf serialization without an inheritance (readonly subsplit of monorepo) (today)
+- [prototype-php/prototype](https://github.com/prototype-php/prototype) - A modern strictly typed full-featured library for grpc and protobuf serialization (today)
 - [prototype-php/grpc](https://github.com/prototype-php/grpc) - A grpc implementation in async php (readonly subsplit of monorepo)  (3 weeks ago)
-- [prototype-php/well-known](https://github.com/prototype-php/well-known) - Protobuf well-known types location (readonly subsplit of monorepo) (3 weeks ago)
-- [prototype-php/prototype](https://github.com/prototype-php/prototype) - A modern strictly typed full-featured library for grpc and protobuf serialization (3 weeks ago)
 
 ---
 
