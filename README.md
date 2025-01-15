@@ -1,7 +1,7 @@
 #### Recent Contributions
 
 - [kafkiansky/binary](https://github.com/kafkiansky/binary) - Tool for manipulating with bytes. (1 day ago)
-- [prototype-php/serializer](https://github.com/prototype-php/serializer) - A modern strictly typed full-featured library for protobuf serialization without an inheritance (readonly subsplit of monorepo) (3 months ago)
+- [thesisphp/endian](https://github.com/thesisphp/endian) - Library for encoding and decoding numbers in either big-endian or little-endian order. (3 weeks ago)
 - [prototype-php/prototype](https://github.com/prototype-php/prototype) - A modern strictly typed full-featured library for grpc and protobuf serialization (3 months ago)
 
 ---
