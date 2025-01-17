@@ -8,9 +8,9 @@
 
 #### Recent Releases
 
+- [thesisphp/byte-cursor](https://github.com/thesisphp/byte-cursor) ([0.1.0](https://github.com/thesisphp/byte-cursor/releases/tag/0.1.0), today) - In-memory buffer for read/write capabilities.
+- [thesisphp/byte-reader-writer](https://github.com/thesisphp/byte-reader-writer) ([0.1.0](https://github.com/thesisphp/byte-reader-writer/releases/tag/0.1.0), today) - An implementation for thesis/byte-order.
 - [thesisphp/amp-bridge](https://github.com/thesisphp/amp-bridge) ([0.1.0](https://github.com/thesisphp/amp-bridge/releases/tag/0.1.0), today) - Reader/Writer bridge to amphp/socket.
-- [thesisphp/byte-buffer](https://github.com/thesisphp/byte-buffer) ([0.1.0](https://github.com/thesisphp/byte-buffer/releases/tag/0.1.0), today) - The library implements buffered I/O.
-- [thesisphp/byte-order](https://github.com/thesisphp/byte-order) ([0.2.0](https://github.com/thesisphp/byte-order/releases/tag/0.2.0), today) - The library adds methods for reading bytes in different byte order to Reader and Writer.
 
 ---
 
