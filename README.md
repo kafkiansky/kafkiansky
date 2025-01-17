@@ -1,8 +1,8 @@
 #### Recent Contributions
 
-- [thesisphp/byte-buffer](https://github.com/thesisphp/byte-buffer) - The library implements buffered I/O. (1 day ago)
 - [thesisphp/amp-bridge](https://github.com/thesisphp/amp-bridge) - Reader/Writer bridge to amphp/socket. (1 day ago)
 - [thesisphp/byteorder](https://github.com/thesisphp/byteorder) - The library adds methods for reading bytes in different byte order to Reader and Writer. (1 day ago)
+- [thesisphp/byte-buffer](https://github.com/thesisphp/byte-buffer) - The library implements buffered I/O. (1 day ago)
 
 ---
 
