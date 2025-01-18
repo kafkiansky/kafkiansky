@@ -1,8 +1,8 @@
 #### Recent Contributions
 
-- [thesisphp/byte-order](https://github.com/thesisphp/byte-order) - The library adds methods for reading bytes in different byte order to Reader and Writer. (1 day ago)
-- [thesisphp/amqp](https://github.com/thesisphp/amqp) - Async (fiber based) client for AMQP 0.9.1. (1 day ago)
 - [thesisphp/byte-reader-writer](https://github.com/thesisphp/byte-reader-writer) - An implementation for thesis/byte-order. (1 day ago)
+- [thesisphp/amqp](https://github.com/thesisphp/amqp) - Async (fiber based) client for AMQP 0.9.1. (1 day ago)
+- [thesisphp/byte-cursor](https://github.com/thesisphp/byte-cursor) - In-memory buffer for read/write capabilities. (1 day ago)
 
 ---
 
