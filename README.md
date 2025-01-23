@@ -1,8 +1,8 @@
 #### Recent Contributions
 
 - [thesisphp/byte-writer](https://github.com/thesisphp/byte-writer) - Writer abstraction for I/O. (today)
-- [thesisphp/byte-buffer](https://github.com/thesisphp/byte-buffer) - The library implements buffered I/O. (today)
 - [thesisphp/byte-order](https://github.com/thesisphp/byte-order) - The library adds methods for reading bytes in different byte order to Reader and Writer. (today)
+- [thesisphp/byte-reader-writer](https://github.com/thesisphp/byte-reader-writer) - An implementation for thesis/byte-order. (today)
 
 ---
 
