@@ -1,8 +1,8 @@
 #### Recent Contributions
 
-- [thesisphp/byte-writer](https://github.com/thesisphp/byte-writer) - Writer abstraction for I/O. (1 day ago)
-- [thesisphp/byte-order](https://github.com/thesisphp/byte-order) - The library adds methods for reading bytes in different byte order to Reader and Writer. (1 day ago)
+- [thesisphp/amp-bridge](https://github.com/thesisphp/amp-bridge) - Reader/Writer bridge to amphp/socket. (1 day ago)
 - [thesisphp/byte-reader-writer](https://github.com/thesisphp/byte-reader-writer) - An implementation for thesis/byte-order. (1 day ago)
+- [thesisphp/byte-writer](https://github.com/thesisphp/byte-writer) - Writer abstraction for I/O. (1 day ago)
 
 ---
 
