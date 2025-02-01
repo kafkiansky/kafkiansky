@@ -1,8 +1,8 @@
 #### Recent Contributions
 
-- [thesisphp/cron-parser](https://github.com/thesisphp/cron-parser) - Easily extensible modern cron parser. (2 days ago)
-- [thesisphp/amp-bridge](https://github.com/thesisphp/amp-bridge) - Reader/Writer bridge to amphp/socket. (1 week ago)
+- [thesisphp/cron-parser](https://github.com/thesisphp/cron-parser) - Easily extensible modern cron parser. (today)
 - [thesisphp/byte-reader-writer](https://github.com/thesisphp/byte-reader-writer) - An implementation for thesis/byte-order. (1 week ago)
+- [thesisphp/amp-bridge](https://github.com/thesisphp/amp-bridge) - Reader/Writer bridge to amphp/socket. (1 week ago)
 
 ---
 
