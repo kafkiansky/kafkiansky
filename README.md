@@ -1,7 +1,7 @@
 #### Recent Contributions
 
 - [thesisphp/cron-parser](https://github.com/thesisphp/cron-parser) - Easily extensible modern cron parser. (today)
-- [thesisphp/byte-order](https://github.com/thesisphp/byte-order) - The library adds methods for reading bytes in different byte order to Reader and Writer. (1 week ago)
+- [thesisphp/byte-buffer](https://github.com/thesisphp/byte-buffer) - The library implements buffered I/O. (1 week ago)
 - [thesisphp/amp-bridge](https://github.com/thesisphp/amp-bridge) - Reader/Writer bridge to amphp/socket. (1 week ago)
 
 ---
