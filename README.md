@@ -2,7 +2,7 @@
 
 - [thesisphp/cron-scheduler](https://github.com/thesisphp/cron-scheduler) - Concurrent (fiber based) task scheduler with cron expression support. (4 days ago)
 - [thesisphp/cron-parser](https://github.com/thesisphp/cron-parser) - Easily extensible modern cron parser. (6 days ago)
-- [thesisphp/amp-bridge](https://github.com/thesisphp/amp-bridge) - Reader/Writer bridge to amphp/socket. (2 weeks ago)
+- [thesisphp/byte-writer](https://github.com/thesisphp/byte-writer) - Writer abstraction for I/O. (2 weeks ago)
 
 ---
 
