@@ -1,6 +1,6 @@
 #### Recent Contributions
 
-- [thesisphp/nsq](https://github.com/thesisphp/nsq) - Async (fiber based) client for Nsq. (5 days ago)
+- [thesisphp/nsq](https://github.com/thesisphp/nsq) - Async (fiber based) client for Nsq. (6 days ago)
 - [thesisphp/byte-cursor](https://github.com/thesisphp/byte-cursor) - In-memory buffer for read/write capabilities. (2 weeks ago)
 - [thesisphp/cron-scheduler](https://github.com/thesisphp/cron-scheduler) - Concurrent (fiber based) task scheduler with cron expression support. (3 weeks ago)
 
