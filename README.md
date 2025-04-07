@@ -1,7 +1,7 @@
 #### Recent Contributions
 
-- [thesisphp/amqp](https://github.com/thesisphp/amqp) - Async (fiber based) client for AMQP 0.9.1. (5 days ago)
-- [thesisphp/endian](https://github.com/thesisphp/endian) - Library for encoding and decoding numbers in either big-endian or little-endian order. (6 days ago)
+- [thesisphp/amqp](https://github.com/thesisphp/amqp) - Async (fiber based) client for AMQP 0.9.1. (6 days ago)
+- [thesisphp/endian](https://github.com/thesisphp/endian) - Library for encoding and decoding numbers in either big-endian or little-endian order. (1 week ago)
 - [kafkiansky/PHPClick](https://github.com/kafkiansky/PHPClick) - Async PHP Client for ClickHouse. (2 weeks ago)
 
 ---
