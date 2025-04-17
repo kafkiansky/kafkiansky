@@ -1,7 +1,7 @@
 #### Recent Contributions
 
+- [kafkiansky/queues](https://github.com/kafkiansky/queues) -  (today)
 - [thesis-php/amqp](https://github.com/thesis-php/amqp) - Async (fiber based) client for AMQP 0.9.1. (3 days ago)
-- [kafkiansky/queues](https://github.com/kafkiansky/queues) -  (1 week ago)
 - [thesis-php/endian](https://github.com/thesis-php/endian) - Library for encoding and decoding numbers in either big-endian or little-endian order. (2 weeks ago)
 
 ---
