@@ -1,8 +1,8 @@
 #### Recent Contributions
 
-- [thesis-php/amqp](https://github.com/thesis-php/amqp) - Async (fiber based) client for AMQP 0.9.1. (2 days ago)
-- [thesis-php/.github](https://github.com/thesis-php/.github) -  (5 days ago)
-- [kafkiansky/queues](https://github.com/kafkiansky/queues) -  (1 week ago)
+- [thesis-php/amqp](https://github.com/thesis-php/amqp) - Async (fiber based) client for AMQP 0.9.1. (3 days ago)
+- [thesis-php/.github](https://github.com/thesis-php/.github) -  (6 days ago)
+- [kafkiansky/queues](https://github.com/kafkiansky/queues) -  (2 weeks ago)
 
 ---
 
