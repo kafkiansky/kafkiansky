@@ -2,7 +2,7 @@
 
 - [thesis-php/time-span](https://github.com/thesis-php/time-span) -  (1 week ago)
 - [thesis-php/amqp](https://github.com/thesis-php/amqp) - Async (fiber based) client for AMQP 0.9.1. (1 week ago)
-- [thesis-php/.github](https://github.com/thesis-php/.github) -  (2 weeks ago)
+- [thesis-php/.github](https://github.com/thesis-php/.github) -  (3 weeks ago)
 
 ---
 
