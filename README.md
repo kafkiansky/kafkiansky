@@ -1,16 +1,16 @@
 #### Recent Contributions
 
+- [getsentry/sentry-php](https://github.com/getsentry/sentry-php) - The official PHP SDK for Sentry (sentry.io) (today)
 - [thesis-php/amqp](https://github.com/thesis-php/amqp) - Async (fiber based) client for AMQP 0.9.1. (3 days ago)
 - [thesis-php/time-span](https://github.com/thesis-php/time-span) -  (4 weeks ago)
-- [thesis-php/.github](https://github.com/thesis-php/.github) -  (1 month ago)
 
 ---
 
 #### Recent Releases
 
+- [getsentry/sentry-php](https://github.com/getsentry/sentry-php) ([4.13.0](https://github.com/getsentry/sentry-php/releases/tag/4.13.0), today) - The official PHP SDK for Sentry (sentry.io)
 - [thesis-php/amqp](https://github.com/thesis-php/amqp) ([1.0.0](https://github.com/thesis-php/amqp/releases/tag/1.0.0), 3 days ago) - Async (fiber based) client for AMQP 0.9.1.
 - [thesis-php/time-span](https://github.com/thesis-php/time-span) ([0.2.2](https://github.com/thesis-php/time-span/releases/tag/0.2.2), 1 week ago) - 
-- [kafkiansky/PHPClick](https://github.com/kafkiansky/PHPClick) ([0.2.1](https://github.com/kafkiansky/PHPClick/releases/tag/0.2.1), 2 months ago) - Async PHP Client for ClickHouse.
 
 ---
 
