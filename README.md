@@ -1,6 +1,6 @@
 #### Recent Contributions
 
-- [thesis-php/docs](https://github.com/thesis-php/docs) -  (1 day ago)
+- [thesis-php/docs](https://github.com/thesis-php/docs) -  (2 days ago)
 - [getsentry/sentry-php](https://github.com/getsentry/sentry-php) - The official PHP SDK for Sentry (sentry.io) (1 week ago)
 - [thesis-php/amqp](https://github.com/thesis-php/amqp) - Async (fiber based) client for AMQP 0.9.1. (2 weeks ago)
 
