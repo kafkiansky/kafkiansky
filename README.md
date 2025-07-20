@@ -1,7 +1,7 @@
 #### Recent Contributions
 
-- [rabbitmq/rabbitmq-tutorials](https://github.com/rabbitmq/rabbitmq-tutorials) - Tutorials for using RabbitMQ in various ways (1 day ago)
 - [thesis-php/amqp](https://github.com/thesis-php/amqp) - Async (fiber based) client for AMQP 0.9.1. (1 day ago)
+- [rabbitmq/rabbitmq-tutorials](https://github.com/rabbitmq/rabbitmq-tutorials) - Tutorials for using RabbitMQ in various ways (1 day ago)
 - [thesis-php/docs](https://github.com/thesis-php/docs) -  (1 month ago)
 
 ---
