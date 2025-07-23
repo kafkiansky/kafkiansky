@@ -1,8 +1,8 @@
 #### Recent Contributions
 
+- [thesis-php/nats](https://github.com/thesis-php/nats) - Non-blocking (fiber based) client for Nats. (today)
 - [thesis-php/amqp](https://github.com/thesis-php/amqp) - Async (fiber based) client for AMQP 0.9.1. (4 days ago)
 - [rabbitmq/rabbitmq-tutorials](https://github.com/rabbitmq/rabbitmq-tutorials) - Tutorials for using RabbitMQ in various ways (4 days ago)
-- [thesis-php/docs](https://github.com/thesis-php/docs) -  (1 month ago)
 
 ---
 
