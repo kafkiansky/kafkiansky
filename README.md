@@ -1,8 +1,8 @@
 #### Recent Contributions
 
+- [kafkiansky/PHPClick](https://github.com/kafkiansky/PHPClick) - Async PHP Client for ClickHouse. (today)
 - [thesis-php/nats](https://github.com/thesis-php/nats) - Non-blocking (fiber based) client for Nats. (2 months ago)
 - [thesis-php/amqp](https://github.com/thesis-php/amqp) - Non-blocking (fiber based) client for AMQP 0.9.1. (2 months ago)
-- [rabbitmq/rabbitmq-tutorials](https://github.com/rabbitmq/rabbitmq-tutorials) - Tutorials for using RabbitMQ in various ways (2 months ago)
 
 ---
 
