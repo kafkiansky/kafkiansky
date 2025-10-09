@@ -8,7 +8,7 @@
 
 #### Recent Releases
 
-- [thesis-php/time-span](https://github.com/thesis-php/time-span) ([0.2.3](https://github.com/thesis-php/time-span/releases/tag/0.2.3), 2 days ago) - 
+- [thesis-php/time-span](https://github.com/thesis-php/time-span) ([0.2.3](https://github.com/thesis-php/time-span/releases/tag/0.2.3), 3 days ago) - 
 - [getsentry/sentry-php](https://github.com/getsentry/sentry-php) ([4.16.0](https://github.com/getsentry/sentry-php/releases/tag/4.16.0), 2 weeks ago) - The official PHP SDK for Sentry (sentry.io)
 - [thesis-php/nats](https://github.com/thesis-php/nats) ([0.1.0](https://github.com/thesis-php/nats/releases/tag/0.1.0), 2 months ago) - Non-blocking (fiber based) client for Nats.
 
