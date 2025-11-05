@@ -8,8 +8,8 @@
 
 #### Recent Releases
 
+- [getsentry/sentry-php](https://github.com/getsentry/sentry-php) ([4.18.0](https://github.com/getsentry/sentry-php/releases/tag/4.18.0), today) - The official PHP SDK for Sentry (sentry.io)
 - [thesis-php/nats](https://github.com/thesis-php/nats) ([0.3.0](https://github.com/thesis-php/nats/releases/tag/0.3.0), 1 week ago) - Non-blocking (fiber based) client for Nats.
-- [getsentry/sentry-php](https://github.com/getsentry/sentry-php) ([4.17.1](https://github.com/getsentry/sentry-php/releases/tag/4.17.1), 1 week ago) - The official PHP SDK for Sentry (sentry.io)
 - [kafkiansky/PHPClick](https://github.com/kafkiansky/PHPClick) ([0.3.0](https://github.com/kafkiansky/PHPClick/releases/tag/0.3.0), 3 weeks ago) - Async PHP Client for ClickHouse.
 
 ---
