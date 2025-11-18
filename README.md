@@ -1,8 +1,8 @@
 #### Recent Contributions
 
 - [thesis-php/pgmq](https://github.com/thesis-php/pgmq) - A non-blocking php client for Postgres Message Queue (PGMQ) (today)
+- [pgmq/pgmq](https://github.com/pgmq/pgmq) - A lightweight message queue. Like AWS SQS and RSMQ but on Postgres. (today)
 - [thesis-php/nats](https://github.com/thesis-php/nats) - Non-blocking (fiber based) client for Nats. (3 days ago)
-- [kafkiansky/PHPClick](https://github.com/kafkiansky/PHPClick) - Async PHP Client for ClickHouse. (1 month ago)
 
 ---
 
