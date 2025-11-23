@@ -1,6 +1,6 @@
 #### Recent Contributions
 
-- [thesis-php/varint](https://github.com/thesis-php/varint) - Varint and ZigZag integer encoding (1 day ago)
+- [thesis-php/varint](https://github.com/thesis-php/varint) - Varint and ZigZag integer encoding (today)
 - [thesis-php/pgmq](https://github.com/thesis-php/pgmq) - A non-blocking php client for Postgres Message Queue (PGMQ) (1 day ago)
 - [pgmq/pgmq](https://github.com/pgmq/pgmq) - A lightweight message queue. Like AWS SQS and RSMQ but on Postgres. (5 days ago)
 
