@@ -1,7 +1,7 @@
 #### Recent Contributions
 
-- [thesis-php/endian](https://github.com/thesis-php/endian) - Library for encoding and decoding numbers in either big-endian or little-endian order. (4 days ago)
 - [thesis-php/varint](https://github.com/thesis-php/varint) - Varint and ZigZag integer encoding (4 days ago)
+- [thesis-php/endian](https://github.com/thesis-php/endian) - Library for encoding and decoding numbers in either big-endian or little-endian order. (4 days ago)
 - [thesis-php/pgmq](https://github.com/thesis-php/pgmq) - A non-blocking php client for Postgres Message Queue (PGMQ) (1 week ago)
 
 ---
