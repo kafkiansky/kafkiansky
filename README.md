@@ -1,8 +1,8 @@
 #### Recent Contributions
 
+- [thesis-php/pgmq](https://github.com/thesis-php/pgmq) - A non-blocking php client for Postgres Message Queue (PGMQ) (today)
+- [thesis-php/protobuf](https://github.com/thesis-php/protobuf) - A modern strictly typed full-featured serializer for Google&#39;s protocol buffers  (today)
 - [kafkiansky/kafkiansky.github.io](https://github.com/kafkiansky/kafkiansky.github.io) -  (3 days ago)
-- [thesis-php/nats](https://github.com/thesis-php/nats) - Non-blocking (fiber based) client for Nats. (1 week ago)
-- [thesis-php/varint](https://github.com/thesis-php/varint) - Varint and ZigZag integer encoding (3 weeks ago)
 
 ---
 
