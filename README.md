@@ -1,7 +1,7 @@
 #### Recent Contributions
 
-- [thesis-php/protobuf](https://github.com/thesis-php/protobuf) - A modern strictly typed full-featured serializer for Google&#39;s protocol buffers  (4 days ago)
-- [thesis-php/pgmq](https://github.com/thesis-php/pgmq) - A non-blocking php client for Postgres Message Queue (PGMQ) (1 week ago)
+- [thesis-php/protobuf](https://github.com/thesis-php/protobuf) - A modern strictly typed full-featured serializer for Google&#39;s protocol buffers  (5 days ago)
+- [thesis-php/pgmq](https://github.com/thesis-php/pgmq) - A non-blocking php client for Postgres Message Queue (PGMQ) (2 weeks ago)
 - [kafkiansky/kafkiansky.github.io](https://github.com/kafkiansky/kafkiansky.github.io) -  (3 weeks ago)
 
 ---
