@@ -1,6 +1,6 @@
 #### Recent Contributions
 
-- [thesis-php/grpc](https://github.com/thesis-php/grpc) - Non-blocking implementation of gRPC. (1 day ago)
+- [thesis-php/grpc](https://github.com/thesis-php/grpc) - Non-blocking implementation of gRPC. (today)
 - [kafkiansky/kafkiansky.github.io](https://github.com/kafkiansky/kafkiansky.github.io) -  (1 week ago)
 - [thesis-php/protobuf](https://github.com/thesis-php/protobuf) - A modern strictly typed full-featured serializer for Google&#39;s protocol buffers  (3 weeks ago)
 
