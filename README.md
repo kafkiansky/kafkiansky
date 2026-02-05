@@ -8,9 +8,9 @@
 
 #### Recent Releases
 
-- [thesis-php/protoc-plugin](https://github.com/thesis-php/protoc-plugin) ([0.1.0](https://github.com/thesis-php/protoc-plugin/releases/tag/0.1.0), today) - PHP plugin for protobuf compiler (protoc).
+- [thesis-php/protobuf](https://github.com/thesis-php/protobuf) ([0.1.0](https://github.com/thesis-php/protobuf/releases/tag/0.1.0), today) - A modern strictly typed full-featured serializer for Google&#39;s protocol buffers 
+- [thesis-php/protoc-plugin](https://github.com/thesis-php/protoc-plugin) ([0.1.1](https://github.com/thesis-php/protoc-plugin/releases/tag/0.1.1), today) - PHP plugin for protobuf compiler (protoc).
 - [pgmq/pgmq](https://github.com/pgmq/pgmq) ([v1.10.0](https://github.com/pgmq/pgmq/releases/tag/v1.10.0), 3 days ago) - A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.
-- [thesis-php/pgmq](https://github.com/thesis-php/pgmq) ([0.1.4](https://github.com/thesis-php/pgmq/releases/tag/0.1.4), 1 month ago) - A non-blocking php client for Postgres Message Queue (PGMQ)
 
 ---
 
