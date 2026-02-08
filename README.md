@@ -1,8 +1,8 @@
 #### Recent Contributions
 
+- [thesis-php/protobuf-known-types](https://github.com/thesis-php/protobuf-known-types) - Collection of well-known protobuf types. (today)
 - [thesis-php/protoc-plugin](https://github.com/thesis-php/protoc-plugin) - PHP plugin for protobuf compiler (protoc). (today)
 - [thesis-php/grpc](https://github.com/thesis-php/grpc) - Non-blocking implementation of gRPC. (1 week ago)
-- [kafkiansky/kafkiansky.github.io](https://github.com/kafkiansky/kafkiansky.github.io) -  (3 weeks ago)
 
 ---
 
