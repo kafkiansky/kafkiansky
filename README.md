@@ -1,8 +1,8 @@
 #### Recent Contributions
 
-- [thesis-php/protobuf-descriptor-types](https://github.com/thesis-php/protobuf-descriptor-types) - Generated types for protocol buffers reflection. (5 days ago)
-- [thesis-php/protobuf](https://github.com/thesis-php/protobuf) - A modern strictly typed full-featured serializer for Google&#39;s protocol buffers  (5 days ago)
-- [thesis-php/googleapis-rpc-types](https://github.com/thesis-php/googleapis-rpc-types) - Generated types for googleapis/rpc. (5 days ago)
+- [thesis-php/googleapis-rpc-types](https://github.com/thesis-php/googleapis-rpc-types) - Generated types for googleapis/rpc. (today)
+- [thesis-php/protobuf-known-types](https://github.com/thesis-php/protobuf-known-types) - Collection of well-known protobuf types. (today)
+- [thesis-php/google-types](https://github.com/thesis-php/google-types) - Generated types for google/type. (today)
 
 ---
 
