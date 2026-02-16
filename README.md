@@ -8,9 +8,9 @@
 
 #### Recent Releases
 
+- [getsentry/sentry-php](https://github.com/getsentry/sentry-php) ([4.20.0](https://github.com/getsentry/sentry-php/releases/tag/4.20.0), today) - The official PHP SDK for Sentry (sentry.io)
+- [pgmq/pgmq](https://github.com/pgmq/pgmq) ([v1.10.1](https://github.com/pgmq/pgmq/releases/tag/v1.10.1), today) - A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.
 - [thesis-php/protoc-plugin](https://github.com/thesis-php/protoc-plugin) ([0.1.6](https://github.com/thesis-php/protoc-plugin/releases/tag/0.1.6), today) - PHP plugin for protobuf compiler (protoc).
-- [thesis-php/google-types](https://github.com/thesis-php/google-types) ([0.1.0](https://github.com/thesis-php/google-types/releases/tag/0.1.0), 1 day ago) - Generated types for google/type.
-- [thesis-php/protobuf-compiler-types](https://github.com/thesis-php/protobuf-compiler-types) ([0.1.1](https://github.com/thesis-php/protobuf-compiler-types/releases/tag/0.1.1), 1 day ago) - Generated types for protoc plugin.
 
 ---
 
