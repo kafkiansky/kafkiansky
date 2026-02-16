@@ -8,9 +8,9 @@
 
 #### Recent Releases
 
+- [thesis-php/protobuf](https://github.com/thesis-php/protobuf) ([0.1.3](https://github.com/thesis-php/protobuf/releases/tag/0.1.3), today) - A modern strictly typed full-featured serializer for Google&#39;s protocol buffers 
 - [getsentry/sentry-php](https://github.com/getsentry/sentry-php) ([4.20.0](https://github.com/getsentry/sentry-php/releases/tag/4.20.0), today) - The official PHP SDK for Sentry (sentry.io)
 - [pgmq/pgmq](https://github.com/pgmq/pgmq) ([v1.10.1](https://github.com/pgmq/pgmq/releases/tag/v1.10.1), today) - A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.
-- [thesis-php/protoc-plugin](https://github.com/thesis-php/protoc-plugin) ([0.1.6](https://github.com/thesis-php/protoc-plugin/releases/tag/0.1.6), today) - PHP plugin for protobuf compiler (protoc).
 
 ---
 
