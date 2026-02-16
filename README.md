@@ -1,8 +1,8 @@
 #### Recent Contributions
 
+- [thesis-php/protobuf](https://github.com/thesis-php/protobuf) - A modern strictly typed full-featured serializer for Google&#39;s protocol buffers  (today)
 - [thesis-php/protoc-plugin](https://github.com/thesis-php/protoc-plugin) - PHP plugin for protobuf compiler (protoc). (today)
 - [thesis-php/protobuf-known-types](https://github.com/thesis-php/protobuf-known-types) - Collection of well-known protobuf types. (1 day ago)
-- [thesis-php/protobuf](https://github.com/thesis-php/protobuf) - A modern strictly typed full-featured serializer for Google&#39;s protocol buffers  (1 day ago)
 
 ---
 
