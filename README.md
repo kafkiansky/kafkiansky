@@ -1,8 +1,8 @@
 #### Recent Contributions
 
 - [thesis-php/protobuf](https://github.com/thesis-php/protobuf) - A modern strictly typed full-featured serializer for Google&#39;s protocol buffers  (today)
+- [thesis-php/grpc](https://github.com/thesis-php/grpc) - Non-blocking implementation of gRPC. (today)
 - [thesis-php/protobuf-known-types](https://github.com/thesis-php/protobuf-known-types) - Collection of well-known protobuf types. (today)
-- [thesis-php/googleapis-rpc-types](https://github.com/thesis-php/googleapis-rpc-types) - Generated types for googleapis/rpc. (today)
 
 ---
 
