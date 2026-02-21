@@ -1,16 +1,16 @@
 #### Recent Contributions
 
-- [thesis-php/grpc](https://github.com/thesis-php/grpc) - Non-blocking implementation of gRPC. (today)
-- [thesis-php/googleapis-rpc-types](https://github.com/thesis-php/googleapis-rpc-types) - Generated types for googleapis/rpc. (3 days ago)
-- [thesis-php/protobuf](https://github.com/thesis-php/protobuf) - A modern strictly typed full-featured serializer for Google&#39;s protocol buffers  (3 days ago)
+- [thesis-php/grpc](https://github.com/thesis-php/grpc) - Non-blocking implementation of gRPC. (1 day ago)
+- [thesis-php/googleapis-rpc-types](https://github.com/thesis-php/googleapis-rpc-types) - Generated types for googleapis/rpc. (4 days ago)
+- [thesis-php/protobuf](https://github.com/thesis-php/protobuf) - A modern strictly typed full-featured serializer for Google&#39;s protocol buffers  (4 days ago)
 
 ---
 
 #### Recent Releases
 
-- [pgmq/pgmq](https://github.com/pgmq/pgmq) ([v1.11.0](https://github.com/pgmq/pgmq/releases/tag/v1.11.0), 1 day ago) - A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.
-- [thesis-php/googleapis-rpc-types](https://github.com/thesis-php/googleapis-rpc-types) ([0.1.2](https://github.com/thesis-php/googleapis-rpc-types/releases/tag/0.1.2), 3 days ago) - Generated types for googleapis/rpc.
-- [thesis-php/protobuf-known-types](https://github.com/thesis-php/protobuf-known-types) ([0.1.2](https://github.com/thesis-php/protobuf-known-types/releases/tag/0.1.2), 3 days ago) - Collection of well-known protobuf types.
+- [pgmq/pgmq](https://github.com/pgmq/pgmq) ([v1.11.0](https://github.com/pgmq/pgmq/releases/tag/v1.11.0), 2 days ago) - A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.
+- [thesis-php/googleapis-rpc-types](https://github.com/thesis-php/googleapis-rpc-types) ([0.1.2](https://github.com/thesis-php/googleapis-rpc-types/releases/tag/0.1.2), 4 days ago) - Generated types for googleapis/rpc.
+- [thesis-php/protobuf-known-types](https://github.com/thesis-php/protobuf-known-types) ([0.1.2](https://github.com/thesis-php/protobuf-known-types/releases/tag/0.1.2), 4 days ago) - Collection of well-known protobuf types.
 
 ---
 
