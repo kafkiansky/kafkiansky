@@ -1,8 +1,8 @@
 #### Recent Contributions
 
+- [thesis-php/grpc-health](https://github.com/thesis-php/grpc-health) - gRPC health checking protocol implementation (today)
 - [thesis-php/grpc](https://github.com/thesis-php/grpc) - Non-blocking implementation of gRPC. (today)
 - [thesis-php/protoc-plugin](https://github.com/thesis-php/protoc-plugin) - PHP plugin for protobuf compiler (protoc). (today)
-- [kafkiansky/kafkiansky.github.io](https://github.com/kafkiansky/kafkiansky.github.io) -  (3 days ago)
 
 ---
 
