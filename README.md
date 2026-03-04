@@ -1,7 +1,7 @@
 #### Recent Contributions
 
+- [thesis-php/protoc-plugin](https://github.com/thesis-php/protoc-plugin) - PHP plugin for protobuf compiler (protoc). (today)
 - [thesis-php/grpc](https://github.com/thesis-php/grpc) - Non-blocking implementation of gRPC. (1 day ago)
-- [thesis-php/protoc-plugin](https://github.com/thesis-php/protoc-plugin) - PHP plugin for protobuf compiler (protoc). (1 day ago)
 - [thesis-php/grpc-health](https://github.com/thesis-php/grpc-health) - gRPC health checking protocol implementation (1 day ago)
 
 ---
