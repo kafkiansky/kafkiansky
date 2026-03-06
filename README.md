@@ -1,8 +1,8 @@
 #### Recent Contributions
 
 - [thesis-php/protobuf](https://github.com/thesis-php/protobuf) - A modern strictly typed full-featured serializer for Google&#39;s protocol buffers  (today)
+- [thesis-php/protoc-plugin](https://github.com/thesis-php/protoc-plugin) - PHP plugin for protobuf compiler (protoc). (today)
 - [kafkiansky/binary](https://github.com/kafkiansky/binary) - Tool for manipulating with bytes. (today)
-- [thesis-php/endian](https://github.com/thesis-php/endian) - Library for encoding and decoding numbers in either big-endian or little-endian order. (1 day ago)
 
 ---
 
