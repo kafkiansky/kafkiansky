@@ -1,7 +1,7 @@
 #### Recent Contributions
 
+- [thesis-php/protoc-plugin](https://github.com/thesis-php/protoc-plugin) - PHP plugin for protobuf compiler (protoc). (today)
 - [thesis-php/protobuf](https://github.com/thesis-php/protobuf) - A modern strictly typed full-featured serializer for Google&#39;s protocol buffers  (1 day ago)
-- [thesis-php/protoc-plugin](https://github.com/thesis-php/protoc-plugin) - PHP plugin for protobuf compiler (protoc). (1 day ago)
 - [kafkiansky/binary](https://github.com/kafkiansky/binary) - Tool for manipulating with bytes. (1 day ago)
 
 ---
