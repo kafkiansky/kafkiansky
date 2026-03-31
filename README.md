@@ -1,6 +1,6 @@
 #### Recent Contributions
 
-- [thesis-php/protoregistry](https://github.com/thesis-php/protoregistry) - Register and lookup protobuf descriptor types. (5 days ago)
+- [thesis-php/protoregistry](https://github.com/thesis-php/protoregistry) - Register and lookup protobuf descriptor types. (today)
 - [thesis-php/protoc-plugin](https://github.com/thesis-php/protoc-plugin) - PHP plugin for protobuf compiler (protoc). (6 days ago)
 - [thesis-php/nats](https://github.com/thesis-php/nats) - Non-blocking (fiber based) client for Nats. (2 weeks ago)
 
