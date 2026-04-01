@@ -8,7 +8,7 @@
 
 #### Recent Releases
 
-- [thesis-php/protoregistry](https://github.com/thesis-php/protoregistry) ([0.1.0](https://github.com/thesis-php/protoregistry/releases/tag/0.1.0), 1 day ago) - Register and lookup protobuf descriptor types.
+- [thesis-php/protoregistry](https://github.com/thesis-php/protoregistry) ([0.1.1](https://github.com/thesis-php/protoregistry/releases/tag/0.1.1), today) - Register and lookup protobuf descriptor types.
 - [getsentry/sentry-php](https://github.com/getsentry/sentry-php) ([4.23.1](https://github.com/getsentry/sentry-php/releases/tag/4.23.1), 2 days ago) - The official PHP SDK for Sentry (sentry.io)
 - [kafkiansky/binary](https://github.com/kafkiansky/binary) ([0.5.0](https://github.com/kafkiansky/binary/releases/tag/0.5.0), 5 days ago) - Tool for manipulating with bytes.
 
