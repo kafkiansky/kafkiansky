@@ -1,16 +1,16 @@
 #### Recent Contributions
 
-- [thesis-php/protobuf-known-types](https://github.com/thesis-php/protobuf-known-types) - Collection of well-known protobuf types. (today)
-- [thesis-php/protobuf-compiler-types](https://github.com/thesis-php/protobuf-compiler-types) - Generated types for protoc plugin. (today)
-- [thesis-php/protobuf](https://github.com/thesis-php/protobuf) - A modern strictly typed full-featured serializer for Google&#39;s protocol buffers  (today)
+- [thesis-php/protobuf-known-types](https://github.com/thesis-php/protobuf-known-types) - Collection of well-known protobuf types. (1 day ago)
+- [thesis-php/protobuf-compiler-types](https://github.com/thesis-php/protobuf-compiler-types) - Generated types for protoc plugin. (1 day ago)
+- [thesis-php/protobuf](https://github.com/thesis-php/protobuf) - A modern strictly typed full-featured serializer for Google&#39;s protocol buffers  (1 day ago)
 
 ---
 
 #### Recent Releases
 
-- [thesis-php/googleapis-rpc-types](https://github.com/thesis-php/googleapis-rpc-types) ([0.1.4](https://github.com/thesis-php/googleapis-rpc-types/releases/tag/0.1.4), today) - Generated types for googleapis/rpc.
-- [thesis-php/google-types](https://github.com/thesis-php/google-types) ([0.1.2](https://github.com/thesis-php/google-types/releases/tag/0.1.2), today) - Generated types for google/type.
-- [thesis-php/protoc-plugin](https://github.com/thesis-php/protoc-plugin) ([0.1.17](https://github.com/thesis-php/protoc-plugin/releases/tag/0.1.17), today) - PHP plugin for protobuf compiler (protoc).
+- [thesis-php/googleapis-rpc-types](https://github.com/thesis-php/googleapis-rpc-types) ([0.1.4](https://github.com/thesis-php/googleapis-rpc-types/releases/tag/0.1.4), 1 day ago) - Generated types for googleapis/rpc.
+- [thesis-php/google-types](https://github.com/thesis-php/google-types) ([0.1.2](https://github.com/thesis-php/google-types/releases/tag/0.1.2), 1 day ago) - Generated types for google/type.
+- [thesis-php/protoc-plugin](https://github.com/thesis-php/protoc-plugin) ([0.1.17](https://github.com/thesis-php/protoc-plugin/releases/tag/0.1.17), 1 day ago) - PHP plugin for protobuf compiler (protoc).
 
 ---
 
