@@ -8,9 +8,9 @@
 
 #### Recent Releases
 
+- [thesis-php/protobuf-compiler-types](https://github.com/thesis-php/protobuf-compiler-types) ([0.1.5](https://github.com/thesis-php/protobuf-compiler-types/releases/tag/0.1.5), today) - Generated types for protoc plugin.
+- [thesis-php/protobuf-descriptor-types](https://github.com/thesis-php/protobuf-descriptor-types) ([0.1.5](https://github.com/thesis-php/protobuf-descriptor-types/releases/tag/0.1.5), today) - Generated types for protocol buffers reflection.
 - [thesis-php/google-types](https://github.com/thesis-php/google-types) ([0.1.4](https://github.com/thesis-php/google-types/releases/tag/0.1.4), today) - Generated types for google/type.
-- [thesis-php/googleapis-rpc-types](https://github.com/thesis-php/googleapis-rpc-types) ([0.1.6](https://github.com/thesis-php/googleapis-rpc-types/releases/tag/0.1.6), today) - Generated types for googleapis/rpc.
-- [thesis-php/protobuf-known-types](https://github.com/thesis-php/protobuf-known-types) ([0.1.5](https://github.com/thesis-php/protobuf-known-types/releases/tag/0.1.5), today) - Collection of well-known protobuf types.
 
 ---
 
