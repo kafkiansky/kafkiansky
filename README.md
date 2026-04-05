@@ -2,7 +2,7 @@
 
 - [thesis-php/grpc](https://github.com/thesis-php/grpc) - Non-blocking implementation of gRPC. (today)
 - [thesis-php/grpc-server-reflection](https://github.com/thesis-php/grpc-server-reflection) - gRPC server reflection protocol implementation. (today)
-- [thesis-php/protobuf-compiler-types](https://github.com/thesis-php/protobuf-compiler-types) - Generated types for protoc plugin. (1 day ago)
+- [thesis-php/protobuf-descriptor-types](https://github.com/thesis-php/protobuf-descriptor-types) - Generated types for protocol buffers reflection. (1 day ago)
 
 ---
 
