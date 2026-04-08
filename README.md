@@ -1,6 +1,6 @@
 #### Recent Contributions
 
-- [thesis-php/grpc](https://github.com/thesis-php/grpc) - Non-blocking implementation of gRPC. (3 days ago)
+- [thesis-php/grpc](https://github.com/thesis-php/grpc) - Non-blocking implementation of gRPC. (today)
 - [thesis-php/grpc-server-reflection](https://github.com/thesis-php/grpc-server-reflection) - gRPC server reflection protocol implementation. (3 days ago)
 - [thesis-php/protobuf-compiler-types](https://github.com/thesis-php/protobuf-compiler-types) - Generated types for protoc plugin. (4 days ago)
 
