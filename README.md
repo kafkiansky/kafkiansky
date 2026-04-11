@@ -2,7 +2,7 @@
 
 - [thesis-php/grpc-protocol](https://github.com/thesis-php/grpc-protocol) - Shared gRPC protocol runtime for PHP: framing, metadata, status/error model, and encoding/compression primitives used by client and server. (1 day ago)
 - [thesis-php/grpc](https://github.com/thesis-php/grpc) - Non-blocking implementation of gRPC. (1 day ago)
-- [thesis-php/grpc-server](https://github.com/thesis-php/grpc-server) - Non-blocking gRPC server for PHP with HTTP/2 transport, unary and streaming RPC handlers, interceptors, and graceful shutdown. (1 day ago)
+- [thesis-php/grpc-client](https://github.com/thesis-php/grpc-client) - Non-blocking gRPC client for PHP with HTTP/2 transport, streaming RPCs, interceptors, TLS/mTLS, and client-side load balancing. (1 day ago)
 
 ---
 
