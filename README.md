@@ -1,16 +1,16 @@
 #### Recent Contributions
 
+- [thesis-php/protobuf-known-types](https://github.com/thesis-php/protobuf-known-types) - Collection of well-known protobuf types. (today)
+- [thesis-php/googleapis-rpc-types](https://github.com/thesis-php/googleapis-rpc-types) - Generated types for googleapis/rpc. (today)
 - [thesis-php/protoc-plugin](https://github.com/thesis-php/protoc-plugin) - PHP plugin for protobuf compiler (protoc). (today)
-- [kafkiansky/kafkiansky.github.io](https://github.com/kafkiansky/kafkiansky.github.io) -  (3 days ago)
-- [thesis-php/grpc-server](https://github.com/thesis-php/grpc-server) - Non-blocking gRPC server for PHP with HTTP/2 transport, unary and streaming RPC handlers, interceptors, and graceful shutdown. (5 days ago)
 
 ---
 
 #### Recent Releases
 
-- [thesis-php/grpc-server](https://github.com/thesis-php/grpc-server) ([0.1.5](https://github.com/thesis-php/grpc-server/releases/tag/0.1.5), 5 days ago) - Non-blocking gRPC server for PHP with HTTP/2 transport, unary and streaming RPC handlers, interceptors, and graceful shutdown.
-- [thesis-php/grpc-client](https://github.com/thesis-php/grpc-client) ([0.1.5](https://github.com/thesis-php/grpc-client/releases/tag/0.1.5), 5 days ago) - Non-blocking gRPC client for PHP with HTTP/2 transport, streaming RPCs, interceptors, TLS/mTLS, and client-side load balancing.
-- [thesis-php/grpc-protocol](https://github.com/thesis-php/grpc-protocol) ([0.1.5](https://github.com/thesis-php/grpc-protocol/releases/tag/0.1.5), 5 days ago) - Shared gRPC protocol runtime for PHP: framing, metadata, status/error model, and encoding/compression primitives used by client and server.
+- [thesis-php/googleapis-rpc-types](https://github.com/thesis-php/googleapis-rpc-types) ([0.1.7](https://github.com/thesis-php/googleapis-rpc-types/releases/tag/0.1.7), today) - Generated types for googleapis/rpc.
+- [thesis-php/protobuf-compiler-types](https://github.com/thesis-php/protobuf-compiler-types) ([0.1.6](https://github.com/thesis-php/protobuf-compiler-types/releases/tag/0.1.6), today) - Generated types for protoc plugin.
+- [thesis-php/protobuf-descriptor-types](https://github.com/thesis-php/protobuf-descriptor-types) ([0.1.6](https://github.com/thesis-php/protobuf-descriptor-types/releases/tag/0.1.6), today) - Generated types for protocol buffers reflection.
 
 ---
 
