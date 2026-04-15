@@ -1,8 +1,8 @@
 #### Recent Contributions
 
+- [thesis-php/protoc-plugin](https://github.com/thesis-php/protoc-plugin) - PHP plugin for protobuf compiler (protoc). (today)
 - [kafkiansky/kafkiansky.github.io](https://github.com/kafkiansky/kafkiansky.github.io) -  (3 days ago)
 - [thesis-php/grpc-server](https://github.com/thesis-php/grpc-server) - Non-blocking gRPC server for PHP with HTTP/2 transport, unary and streaming RPC handlers, interceptors, and graceful shutdown. (5 days ago)
-- [thesis-php/grpc](https://github.com/thesis-php/grpc) - Non-blocking implementation of gRPC. (5 days ago)
 
 ---
 
