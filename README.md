@@ -1,7 +1,7 @@
 #### Recent Contributions
 
+- [thesis-php/nats](https://github.com/thesis-php/nats) - Non-blocking (fiber based) client for Nats. (today)
 - [thesis-php/protobuf-known-types](https://github.com/thesis-php/protobuf-known-types) - Collection of well-known protobuf types. (3 days ago)
-- [thesis-php/googleapis-rpc-types](https://github.com/thesis-php/googleapis-rpc-types) - Generated types for googleapis/rpc. (3 days ago)
 - [thesis-php/protoc-plugin](https://github.com/thesis-php/protoc-plugin) - PHP plugin for protobuf compiler (protoc). (3 days ago)
 
 ---
