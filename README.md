@@ -8,9 +8,9 @@
 
 #### Recent Releases
 
+- [pgmq/pgmq](https://github.com/pgmq/pgmq) ([v1.11.1](https://github.com/pgmq/pgmq/releases/tag/v1.11.1), today) - A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.
 - [thesis-php/googleapis-rpc-types](https://github.com/thesis-php/googleapis-rpc-types) ([0.1.7](https://github.com/thesis-php/googleapis-rpc-types/releases/tag/0.1.7), 4 days ago) - Generated types for googleapis/rpc.
 - [thesis-php/protobuf-compiler-types](https://github.com/thesis-php/protobuf-compiler-types) ([0.1.6](https://github.com/thesis-php/protobuf-compiler-types/releases/tag/0.1.6), 4 days ago) - Generated types for protoc plugin.
-- [thesis-php/protobuf-descriptor-types](https://github.com/thesis-php/protobuf-descriptor-types) ([0.1.6](https://github.com/thesis-php/protobuf-descriptor-types/releases/tag/0.1.6), 4 days ago) - Generated types for protocol buffers reflection.
 
 ---
 
