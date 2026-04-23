@@ -8,9 +8,9 @@
 
 #### Recent Releases
 
+- [getsentry/sentry-php](https://github.com/getsentry/sentry-php) ([4.25.0](https://github.com/getsentry/sentry-php/releases/tag/4.25.0), today) - The official PHP SDK for Sentry (sentry.io)
 - [thesis-php/nats](https://github.com/thesis-php/nats) ([0.4.1](https://github.com/thesis-php/nats/releases/tag/0.4.1), 2 days ago) - Non-blocking (fiber based) client for Nats.
 - [pgmq/pgmq](https://github.com/pgmq/pgmq) ([v1.11.1](https://github.com/pgmq/pgmq/releases/tag/v1.11.1), 4 days ago) - A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.
-- [thesis-php/googleapis-rpc-types](https://github.com/thesis-php/googleapis-rpc-types) ([0.1.7](https://github.com/thesis-php/googleapis-rpc-types/releases/tag/0.1.7), 1 week ago) - Generated types for googleapis/rpc.
 
 ---
 
