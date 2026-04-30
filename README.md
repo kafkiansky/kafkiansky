@@ -8,9 +8,9 @@
 
 #### Recent Releases
 
+- [thesis-php/pgmq](https://github.com/thesis-php/pgmq) ([0.1.6](https://github.com/thesis-php/pgmq/releases/tag/0.1.6), today) - A non-blocking php client for Postgres Message Queue (PGMQ)
 - [getsentry/sentry-php](https://github.com/getsentry/sentry-php) ([4.25.0](https://github.com/getsentry/sentry-php/releases/tag/4.25.0), 1 week ago) - The official PHP SDK for Sentry (sentry.io)
 - [thesis-php/nats](https://github.com/thesis-php/nats) ([0.4.1](https://github.com/thesis-php/nats/releases/tag/0.4.1), 1 week ago) - Non-blocking (fiber based) client for Nats.
-- [pgmq/pgmq](https://github.com/pgmq/pgmq) ([v1.11.1](https://github.com/pgmq/pgmq/releases/tag/v1.11.1), 1 week ago) - A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.
 
 ---
 
