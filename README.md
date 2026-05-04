@@ -1,16 +1,16 @@
 #### Recent Contributions
 
-- [amphp/http-server](https://github.com/amphp/http-server) - An advanced async HTTP server library for PHP, perfect for real-time apps and APIs with high concurrency demands. (3 days ago)
-- [thesis-php/pgmq](https://github.com/thesis-php/pgmq) - A non-blocking php client for Postgres Message Queue (PGMQ) (4 days ago)
-- [thesis-php/nats](https://github.com/thesis-php/nats) - Non-blocking (fiber based) client for Nats. (5 days ago)
+- [thesis-php/grpc-server](https://github.com/thesis-php/grpc-server) - Non-blocking gRPC server for PHP with HTTP/2 transport, unary and streaming RPC handlers, interceptors, and graceful shutdown. (today)
+- [thesis-php/grpc](https://github.com/thesis-php/grpc) - Non-blocking implementation of gRPC. (today)
+- [thesis-php/grpc-client](https://github.com/thesis-php/grpc-client) - Non-blocking gRPC client for PHP with HTTP/2 transport, streaming RPCs, interceptors, TLS/mTLS, and client-side load balancing. (today)
 
 ---
 
 #### Recent Releases
 
-- [amphp/http-server](https://github.com/amphp/http-server) ([v3.4.5](https://github.com/amphp/http-server/releases/tag/v3.4.5), 3 days ago) - An advanced async HTTP server library for PHP, perfect for real-time apps and APIs with high concurrency demands.
-- [thesis-php/pgmq](https://github.com/thesis-php/pgmq) ([0.1.7](https://github.com/thesis-php/pgmq/releases/tag/0.1.7), 3 days ago) - A non-blocking php client for Postgres Message Queue (PGMQ)
-- [getsentry/sentry-php](https://github.com/getsentry/sentry-php) ([4.25.0](https://github.com/getsentry/sentry-php/releases/tag/4.25.0), 1 week ago) - The official PHP SDK for Sentry (sentry.io)
+- [thesis-php/grpc-server-reflection](https://github.com/thesis-php/grpc-server-reflection) ([0.1.1](https://github.com/thesis-php/grpc-server-reflection/releases/tag/0.1.1), today) - gRPC server reflection protocol implementation.
+- [thesis-php/grpc-client](https://github.com/thesis-php/grpc-client) ([0.1.7](https://github.com/thesis-php/grpc-client/releases/tag/0.1.7), today) - Non-blocking gRPC client for PHP with HTTP/2 transport, streaming RPCs, interceptors, TLS/mTLS, and client-side load balancing.
+- [thesis-php/grpc](https://github.com/thesis-php/grpc) ([0.1.7](https://github.com/thesis-php/grpc/releases/tag/0.1.7), today) - Non-blocking implementation of gRPC.
 
 ---
 
