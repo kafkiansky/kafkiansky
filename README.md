@@ -8,7 +8,7 @@
 
 #### Recent Releases
 
-- [getsentry/sentry-php](https://github.com/getsentry/sentry-php) ([4.26.0](https://github.com/getsentry/sentry-php/releases/tag/4.26.0), 1 day ago) - The official PHP SDK for Sentry (sentry.io)
+- [getsentry/sentry-php](https://github.com/getsentry/sentry-php) ([4.27.0](https://github.com/getsentry/sentry-php/releases/tag/4.27.0), today) - The official PHP SDK for Sentry (sentry.io)
 - [thesis-php/grpc-server-reflection](https://github.com/thesis-php/grpc-server-reflection) ([0.1.1](https://github.com/thesis-php/grpc-server-reflection/releases/tag/0.1.1), 2 days ago) - gRPC server reflection protocol implementation.
 - [thesis-php/grpc-client](https://github.com/thesis-php/grpc-client) ([0.1.7](https://github.com/thesis-php/grpc-client/releases/tag/0.1.7), 2 days ago) - Non-blocking gRPC client for PHP with HTTP/2 transport, streaming RPCs, interceptors, TLS/mTLS, and client-side load balancing.
 
