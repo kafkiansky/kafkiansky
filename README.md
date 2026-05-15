@@ -1,16 +1,16 @@
 #### Recent Contributions
 
+- [php-testo/testo](https://github.com/php-testo/testo) - The Testing Framework (today)
 - [kafkiansky/kafkiansky.github.io](https://github.com/kafkiansky/kafkiansky.github.io) -  (1 week ago)
 - [thesis-php/protoc-plugin](https://github.com/thesis-php/protoc-plugin) - PHP plugin for protobuf compiler (protoc). (1 week ago)
-- [thesis-php/grpc-client](https://github.com/thesis-php/grpc-client) - Non-blocking gRPC client for PHP with HTTP/2 transport, streaming RPCs, interceptors, TLS/mTLS, and client-side load balancing. (1 week ago)
 
 ---
 
 #### Recent Releases
 
+- [php-testo/testo](https://github.com/php-testo/testo) ([assert-0.1.3](https://github.com/php-testo/testo/releases/tag/assert-0.1.3), today) - The Testing Framework
 - [getsentry/sentry-php](https://github.com/getsentry/sentry-php) ([4.27.0](https://github.com/getsentry/sentry-php/releases/tag/4.27.0), 1 week ago) - The official PHP SDK for Sentry (sentry.io)
 - [thesis-php/grpc-server-reflection](https://github.com/thesis-php/grpc-server-reflection) ([0.1.1](https://github.com/thesis-php/grpc-server-reflection/releases/tag/0.1.1), 1 week ago) - gRPC server reflection protocol implementation.
-- [thesis-php/grpc-client](https://github.com/thesis-php/grpc-client) ([0.1.7](https://github.com/thesis-php/grpc-client/releases/tag/0.1.7), 1 week ago) - Non-blocking gRPC client for PHP with HTTP/2 transport, streaming RPCs, interceptors, TLS/mTLS, and client-side load balancing.
 
 ---
 
