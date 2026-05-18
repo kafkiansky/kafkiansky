@@ -8,7 +8,7 @@
 
 #### Recent Releases
 
-- [php-testo/testo](https://github.com/php-testo/testo) ([bridge-infection-0.1.4](https://github.com/php-testo/testo/releases/tag/bridge-infection-0.1.4), 1 day ago) - The Testing Framework
+- [php-testo/testo](https://github.com/php-testo/testo) ([0.10.11](https://github.com/php-testo/testo/releases/tag/0.10.11), today) - The Testing Framework
 - [getsentry/sentry-php](https://github.com/getsentry/sentry-php) ([4.27.0](https://github.com/getsentry/sentry-php/releases/tag/4.27.0), 1 week ago) - The official PHP SDK for Sentry (sentry.io)
 - [thesis-php/grpc-server-reflection](https://github.com/thesis-php/grpc-server-reflection) ([0.1.1](https://github.com/thesis-php/grpc-server-reflection/releases/tag/0.1.1), 2 weeks ago) - gRPC server reflection protocol implementation.
 
