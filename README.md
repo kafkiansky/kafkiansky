@@ -1,8 +1,8 @@
 #### Recent Contributions
 
+- [thesis-php/schema-registry](https://github.com/thesis-php/schema-registry) - Complete PHP client for Confluent Schema Registry API. (today)
 - [php-testo/testo](https://github.com/php-testo/testo) - The Testing Framework (1 week ago)
 - [kafkiansky/kafkiansky.github.io](https://github.com/kafkiansky/kafkiansky.github.io) -  (2 weeks ago)
-- [thesis-php/protoc-plugin](https://github.com/thesis-php/protoc-plugin) - PHP plugin for protobuf compiler (protoc). (2 weeks ago)
 
 ---
 
