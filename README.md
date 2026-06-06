@@ -8,7 +8,7 @@
 
 #### Recent Releases
 
-- [php-testo/testo](https://github.com/php-testo/testo) ([repeat-0.1.6](https://github.com/php-testo/testo/releases/tag/repeat-0.1.6), 3 days ago) - The Testing Framework
+- [php-testo/testo](https://github.com/php-testo/testo) ([repeat-0.1.6](https://github.com/php-testo/testo/releases/tag/repeat-0.1.6), 4 days ago) - The Testing Framework
 - [getsentry/sentry-php](https://github.com/getsentry/sentry-php) ([4.27.0](https://github.com/getsentry/sentry-php/releases/tag/4.27.0), 1 month ago) - The official PHP SDK for Sentry (sentry.io)
 - [thesis-php/grpc-server-reflection](https://github.com/thesis-php/grpc-server-reflection) ([0.1.1](https://github.com/thesis-php/grpc-server-reflection/releases/tag/0.1.1), 1 month ago) - gRPC server reflection protocol implementation.
 
