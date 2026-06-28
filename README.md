@@ -8,8 +8,8 @@
 
 #### Recent Releases
 
-- [amphp/http-server](https://github.com/amphp/http-server) ([v3.4.6](https://github.com/amphp/http-server/releases/tag/v3.4.6), today) - An advanced async HTTP server library for PHP, perfect for real-time apps and APIs with high concurrency demands.
-- [php-testo/testo](https://github.com/php-testo/testo) ([assert-0.1.9](https://github.com/php-testo/testo/releases/tag/assert-0.1.9), 1 day ago) - The Testing Framework
+- [amphp/http-server](https://github.com/amphp/http-server) ([v3.4.6](https://github.com/amphp/http-server/releases/tag/v3.4.6), 1 day ago) - An advanced async HTTP server library for PHP, perfect for real-time apps and APIs with high concurrency demands.
+- [php-testo/testo](https://github.com/php-testo/testo) ([assert-0.1.9](https://github.com/php-testo/testo/releases/tag/assert-0.1.9), 2 days ago) - The Testing Framework
 - [thesis-php/grpc-server-reflection](https://github.com/thesis-php/grpc-server-reflection) ([0.1.1](https://github.com/thesis-php/grpc-server-reflection/releases/tag/0.1.1), 1 month ago) - gRPC server reflection protocol implementation.
 
 ---
