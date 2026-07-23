@@ -1,16 +1,16 @@
 #### Recent Contributions
 
-- [thesis-php/protobuf-descriptor-types](https://github.com/thesis-php/protobuf-descriptor-types) - Generated types for protocol buffers reflection. (3 days ago)
-- [thesis-php/protobuf-known-types](https://github.com/thesis-php/protobuf-known-types) - Collection of well-known protobuf types. (3 days ago)
-- [thesis-php/protoc-plugin](https://github.com/thesis-php/protoc-plugin) - PHP plugin for protobuf compiler (protoc). (3 days ago)
+- [thesis-php/grpc-protocol](https://github.com/thesis-php/grpc-protocol) - Shared gRPC protocol runtime for PHP: framing, metadata, status/error model, and encoding/compression primitives used by client and server. (today)
+- [thesis-php/grpc-client](https://github.com/thesis-php/grpc-client) - Non-blocking gRPC client for PHP with HTTP/2 transport, streaming RPCs, interceptors, TLS/mTLS, and client-side load balancing. (today)
+- [thesis-php/grpc](https://github.com/thesis-php/grpc) - Non-blocking implementation of gRPC. (today)
 
 ---
 
 #### Recent Releases
 
-- [thesis-php/protoc-plugin](https://github.com/thesis-php/protoc-plugin) ([0.1.21](https://github.com/thesis-php/protoc-plugin/releases/tag/0.1.21), 3 days ago) - PHP plugin for protobuf compiler (protoc).
-- [pgmq/pgmq](https://github.com/pgmq/pgmq) ([v1.12.0](https://github.com/pgmq/pgmq/releases/tag/v1.12.0), 1 week ago) - A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.
-- [php-testo/testo](https://github.com/php-testo/testo) ([bridge-rector-0.2.0](https://github.com/php-testo/testo/releases/tag/bridge-rector-0.2.0), 2 weeks ago) - The Testing Framework
+- [thesis-php/grpc-protocol](https://github.com/thesis-php/grpc-protocol) ([0.1.8](https://github.com/thesis-php/grpc-protocol/releases/tag/0.1.8), today) - Shared gRPC protocol runtime for PHP: framing, metadata, status/error model, and encoding/compression primitives used by client and server.
+- [thesis-php/grpc-client](https://github.com/thesis-php/grpc-client) ([0.1.8](https://github.com/thesis-php/grpc-client/releases/tag/0.1.8), today) - Non-blocking gRPC client for PHP with HTTP/2 transport, streaming RPCs, interceptors, TLS/mTLS, and client-side load balancing.
+- [thesis-php/grpc](https://github.com/thesis-php/grpc) ([0.1.8](https://github.com/thesis-php/grpc/releases/tag/0.1.8), today) - Non-blocking implementation of gRPC.
 
 ---
 
