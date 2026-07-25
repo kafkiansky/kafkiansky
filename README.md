@@ -2,7 +2,7 @@
 
 - [thesis-php/etcd-api](https://github.com/thesis-php/etcd-api) - Generated PHP client for etcd v3 gRPC API. (1 day ago)
 - [thesis-php/protobuf-known-types](https://github.com/thesis-php/protobuf-known-types) - Collection of well-known protobuf types. (2 days ago)
-- [thesis-php/grpc-client](https://github.com/thesis-php/grpc-client) - Non-blocking gRPC client for PHP with HTTP/2 transport, streaming RPCs, interceptors, TLS/mTLS, and client-side load balancing. (2 days ago)
+- [thesis-php/grpc](https://github.com/thesis-php/grpc) - Non-blocking implementation of gRPC. (2 days ago)
 
 ---
 
