@@ -1,16 +1,16 @@
 #### Recent Contributions
 
-- [thesis-php/protoc-plugin](https://github.com/thesis-php/protoc-plugin) - PHP plugin for protobuf compiler (protoc). (1 day ago)
-- [thesis-php/protobuf-descriptor-types](https://github.com/thesis-php/protobuf-descriptor-types) - Generated types for protocol buffers reflection. (1 week ago)
-- [thesis-php/protobuf-known-types](https://github.com/thesis-php/protobuf-known-types) - Collection of well-known protobuf types. (1 week ago)
+- [thesis-php/grpc](https://github.com/thesis-php/grpc) - Non-blocking implementation of gRPC. (today)
+- [thesis-php/grpc-retry](https://github.com/thesis-php/grpc-retry) - Configurable retry interceptors (unary, stream) for the thesis/grpc-client, with backoff and per-status retry policies. (today)
+- [thesis-php/grpc-server](https://github.com/thesis-php/grpc-server) - Non-blocking gRPC server for PHP with HTTP/2 transport, unary and streaming RPC handlers, interceptors, and graceful shutdown. (today)
 
 ---
 
 #### Recent Releases
 
-- [thesis-php/protoc-plugin](https://github.com/thesis-php/protoc-plugin) ([0.1.24](https://github.com/thesis-php/protoc-plugin/releases/tag/0.1.24), 1 day ago) - PHP plugin for protobuf compiler (protoc).
-- [thesis-php/etcd-api](https://github.com/thesis-php/etcd-api) ([0.1.1](https://github.com/thesis-php/etcd-api/releases/tag/0.1.1), 1 week ago) - Generated PHP client for etcd v3 gRPC API.
-- [thesis-php/protobuf-known-types](https://github.com/thesis-php/protobuf-known-types) ([0.1.7](https://github.com/thesis-php/protobuf-known-types/releases/tag/0.1.7), 1 week ago) - Collection of well-known protobuf types.
+- [thesis-php/grpc-protocol](https://github.com/thesis-php/grpc-protocol) ([0.1.9](https://github.com/thesis-php/grpc-protocol/releases/tag/0.1.9), today) - Shared gRPC protocol runtime for PHP: framing, metadata, status/error model, and encoding/compression primitives used by client and server.
+- [thesis-php/grpc-client](https://github.com/thesis-php/grpc-client) ([0.1.9](https://github.com/thesis-php/grpc-client/releases/tag/0.1.9), today) - Non-blocking gRPC client for PHP with HTTP/2 transport, streaming RPCs, interceptors, TLS/mTLS, and client-side load balancing.
+- [thesis-php/grpc-server](https://github.com/thesis-php/grpc-server) ([0.1.9](https://github.com/thesis-php/grpc-server/releases/tag/0.1.9), today) - Non-blocking gRPC server for PHP with HTTP/2 transport, unary and streaming RPC handlers, interceptors, and graceful shutdown.
 
 ---
 
