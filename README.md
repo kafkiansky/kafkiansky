@@ -8,9 +8,9 @@
 
 #### Recent Releases
 
-- [thesis-php/grpc-protocol](https://github.com/thesis-php/grpc-protocol) ([0.2.1](https://github.com/thesis-php/grpc-protocol/releases/tag/0.2.1), 1 day ago) - Shared gRPC protocol runtime for PHP: framing, metadata, status/error model, and encoding/compression primitives used by client and server.
-- [thesis-php/grpc](https://github.com/thesis-php/grpc) ([0.2.1](https://github.com/thesis-php/grpc/releases/tag/0.2.1), 1 day ago) - Non-blocking implementation of gRPC.
-- [thesis-php/grpc-server](https://github.com/thesis-php/grpc-server) ([0.2.0](https://github.com/thesis-php/grpc-server/releases/tag/0.2.0), 1 day ago) - Non-blocking gRPC server for PHP with HTTP/2 transport, unary and streaming RPC handlers, interceptors, and graceful shutdown.
+- [thesis-php/grpc-deadline](https://github.com/thesis-php/grpc-deadline) ([0.1.0](https://github.com/thesis-php/grpc-deadline/releases/tag/0.1.0), today) - Client-side deadline interceptor (grpc-timeout &#43; local cancellation) for thesis/grpc.
+- [thesis-php/grpc-auth](https://github.com/thesis-php/grpc-auth) ([0.1.0](https://github.com/thesis-php/grpc-auth/releases/tag/0.1.0), today) - Authentication interceptors for thesis/grpc: pluggable per-call credentials on the client, request verification on the server, unary &amp; stream.
+- [thesis-php/grpc-retry](https://github.com/thesis-php/grpc-retry) ([0.1.0](https://github.com/thesis-php/grpc-retry/releases/tag/0.1.0), today) - Configurable retry interceptors (unary, stream) for the thesis/grpc-client, with backoff and per-status retry policies.
 
 ---
 
