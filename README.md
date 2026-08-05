@@ -1,16 +1,16 @@
 #### Recent Contributions
 
-- [thesis-php/etcd-api](https://github.com/thesis-php/etcd-api) - Generated PHP client for etcd v3 gRPC API. (today)
-- [thesis-php/protobuf](https://github.com/thesis-php/protobuf) - A modern strictly typed full-featured serializer for Google&#39;s protocol buffers  (today)
-- [thesis-php/grpc-health](https://github.com/thesis-php/grpc-health) - Standard gRPC health checking protocol (grpc.health.v1) for thesis/grpc. (1 day ago)
+- [thesis-php/google-types](https://github.com/thesis-php/google-types) - Generated types for google/type. (today)
+- [thesis-php/protobuf-known-types](https://github.com/thesis-php/protobuf-known-types) - Collection of well-known protobuf types. (today)
+- [thesis-php/protoc-plugin](https://github.com/thesis-php/protoc-plugin) - PHP plugin for protobuf compiler (protoc). (today)
 
 ---
 
 #### Recent Releases
 
-- [thesis-php/protobuf](https://github.com/thesis-php/protobuf) ([0.2.0](https://github.com/thesis-php/protobuf/releases/tag/0.2.0), today) - A modern strictly typed full-featured serializer for Google&#39;s protocol buffers 
-- [thesis-php/etcd-api](https://github.com/thesis-php/etcd-api) ([0.1.2](https://github.com/thesis-php/etcd-api/releases/tag/0.1.2), today) - Generated PHP client for etcd v3 gRPC API.
-- [thesis-php/grpc-health](https://github.com/thesis-php/grpc-health) ([0.1.0](https://github.com/thesis-php/grpc-health/releases/tag/0.1.0), today) - Standard gRPC health checking protocol (grpc.health.v1) for thesis/grpc.
+- [thesis-php/etcd-api](https://github.com/thesis-php/etcd-api) ([0.1.3](https://github.com/thesis-php/etcd-api/releases/tag/0.1.3), today) - Generated PHP client for etcd v3 gRPC API.
+- [thesis-php/grpc-protocol](https://github.com/thesis-php/grpc-protocol) ([0.2.2](https://github.com/thesis-php/grpc-protocol/releases/tag/0.2.2), today) - Shared gRPC protocol runtime for PHP: framing, metadata, status/error model, and encoding/compression primitives used by client and server.
+- [thesis-php/grpc](https://github.com/thesis-php/grpc) ([0.2.2](https://github.com/thesis-php/grpc/releases/tag/0.2.2), today) - Non-blocking implementation of gRPC.
 
 ---
 
