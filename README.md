@@ -8,9 +8,9 @@
 
 #### Recent Releases
 
+- [thesis-php/protoc-plugin](https://github.com/thesis-php/protoc-plugin) ([0.3.1](https://github.com/thesis-php/protoc-plugin/releases/tag/0.3.1), today) - PHP plugin for protobuf compiler (protoc).
 - [php-testo/testo](https://github.com/php-testo/testo) ([bridge-revolt-0.1.1](https://github.com/php-testo/testo/releases/tag/bridge-revolt-0.1.1), today) - The Testing Framework
 - [thesis-php/etcd-api](https://github.com/thesis-php/etcd-api) ([0.1.3](https://github.com/thesis-php/etcd-api/releases/tag/0.1.3), 1 day ago) - Generated PHP client for etcd v3 gRPC API.
-- [thesis-php/grpc-protocol](https://github.com/thesis-php/grpc-protocol) ([0.2.2](https://github.com/thesis-php/grpc-protocol/releases/tag/0.2.2), 1 day ago) - Shared gRPC protocol runtime for PHP: framing, metadata, status/error model, and encoding/compression primitives used by client and server.
 
 ---
 
