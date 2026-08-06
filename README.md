@@ -1,7 +1,7 @@
 #### Recent Contributions
 
 - [thesis-php/google-types](https://github.com/thesis-php/google-types) - Generated types for google/type. (1 day ago)
-- [thesis-php/protobuf-known-types](https://github.com/thesis-php/protobuf-known-types) - Collection of well-known protobuf types. (1 day ago)
+- [thesis-php/grpc](https://github.com/thesis-php/grpc) - Non-blocking implementation of gRPC. (1 day ago)
 - [thesis-php/protoc-plugin](https://github.com/thesis-php/protoc-plugin) - PHP plugin for protobuf compiler (protoc). (1 day ago)
 
 ---
