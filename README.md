@@ -1,16 +1,16 @@
 #### Recent Contributions
 
+- [thesis-php/grpc-server-reflection](https://github.com/thesis-php/grpc-server-reflection) - gRPC server reflection protocol implementation. (today)
 - [thesis-php/protoc-plugin](https://github.com/thesis-php/protoc-plugin) - PHP plugin for protobuf compiler (protoc). (today)
-- [thesis-php/etcd](https://github.com/thesis-php/etcd) - Non-blocking PHP client for etcd v3: KV, watch, leases and locks over gRPC. (1 day ago)
-- [thesis-php/etcd-api](https://github.com/thesis-php/etcd-api) - Generated PHP client for etcd v3 gRPC API. (2 days ago)
+- [thesis-php/.github](https://github.com/thesis-php/.github) -  (today)
 
 ---
 
 #### Recent Releases
 
-- [thesis-php/protoc-plugin](https://github.com/thesis-php/protoc-plugin) ([0.4.1](https://github.com/thesis-php/protoc-plugin/releases/tag/0.4.1), today) - PHP plugin for protobuf compiler (protoc).
+- [thesis-php/grpc-server-reflection](https://github.com/thesis-php/grpc-server-reflection) ([0.1.2](https://github.com/thesis-php/grpc-server-reflection/releases/tag/0.1.2), today) - gRPC server reflection protocol implementation.
+- [thesis-php/protoc-plugin](https://github.com/thesis-php/protoc-plugin) ([0.4.2](https://github.com/thesis-php/protoc-plugin/releases/tag/0.4.2), today) - PHP plugin for protobuf compiler (protoc).
 - [php-testo/testo](https://github.com/php-testo/testo) ([bridge-revolt-0.1.1](https://github.com/php-testo/testo/releases/tag/bridge-revolt-0.1.1), 1 day ago) - The Testing Framework
-- [thesis-php/etcd-api](https://github.com/thesis-php/etcd-api) ([0.1.3](https://github.com/thesis-php/etcd-api/releases/tag/0.1.3), 2 days ago) - Generated PHP client for etcd v3 gRPC API.
 
 ---
 
