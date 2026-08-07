@@ -1,16 +1,16 @@
 #### Recent Contributions
 
-- [thesis-php/protobuf-descriptor-types](https://github.com/thesis-php/protobuf-descriptor-types) - Generated types for protocol buffers reflection. (today)
+- [thesis-php/googleapis-rpc-types](https://github.com/thesis-php/googleapis-rpc-types) - Generated types for googleapis/rpc. (today)
 - [thesis-php/protoc-plugin](https://github.com/thesis-php/protoc-plugin) - PHP plugin for protobuf compiler (protoc). (today)
-- [thesis-php/.github](https://github.com/thesis-php/.github) -  (today)
+- [thesis-php/protobuf-descriptor-types](https://github.com/thesis-php/protobuf-descriptor-types) - Generated types for protocol buffers reflection. (today)
 
 ---
 
 #### Recent Releases
 
-- [thesis-php/protoc-plugin](https://github.com/thesis-php/protoc-plugin) ([0.4.3](https://github.com/thesis-php/protoc-plugin/releases/tag/0.4.3), today) - PHP plugin for protobuf compiler (protoc).
-- [thesis-php/grpc-server-reflection](https://github.com/thesis-php/grpc-server-reflection) ([0.1.2](https://github.com/thesis-php/grpc-server-reflection/releases/tag/0.1.2), today) - gRPC server reflection protocol implementation.
-- [php-testo/testo](https://github.com/php-testo/testo) ([bridge-revolt-0.1.1](https://github.com/php-testo/testo/releases/tag/bridge-revolt-0.1.1), 1 day ago) - The Testing Framework
+- [thesis-php/grpc-server-reflection](https://github.com/thesis-php/grpc-server-reflection) ([0.1.4](https://github.com/thesis-php/grpc-server-reflection/releases/tag/0.1.4), today) - gRPC server reflection protocol implementation.
+- [thesis-php/googleapis-rpc-types](https://github.com/thesis-php/googleapis-rpc-types) ([0.2.1](https://github.com/thesis-php/googleapis-rpc-types/releases/tag/0.2.1), today) - Generated types for googleapis/rpc.
+- [thesis-php/google-types](https://github.com/thesis-php/google-types) ([0.2.1](https://github.com/thesis-php/google-types/releases/tag/0.2.1), today) - Generated types for google/type.
 
 ---
 
