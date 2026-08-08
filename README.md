@@ -1,8 +1,8 @@
 #### Recent Contributions
 
-- [thesis-php/grpc](https://github.com/thesis-php/grpc) - Non-blocking implementation of gRPC. (1 day ago)
+- [thesis-php/opentelemetry-grpc-transport](https://github.com/thesis-php/opentelemetry-grpc-transport) - Pure-PHP gRPC transport for OpenTelemetry over thesis/grpc, no ext-grpc required. (today)
+- [thesis-php/grpc-client](https://github.com/thesis-php/grpc-client) - Non-blocking gRPC client for PHP with HTTP/2 transport, streaming RPCs, interceptors, TLS/mTLS, and client-side load balancing. (1 day ago)
 - [thesis-php/protoc-plugin](https://github.com/thesis-php/protoc-plugin) - PHP plugin for protobuf compiler (protoc). (1 day ago)
-- [thesis-php/grpc-retry](https://github.com/thesis-php/grpc-retry) - Configurable retry interceptors (unary, stream) for the thesis/grpc-client, with backoff and per-status retry policies. (1 day ago)
 
 ---
 
