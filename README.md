@@ -1,8 +1,8 @@
 #### Recent Contributions
 
-- [thesis-php/opentelemetry-grpc-transport](https://github.com/thesis-php/opentelemetry-grpc-transport) - Pure-PHP gRPC transport for OpenTelemetry over thesis/grpc, no ext-grpc required. (1 day ago)
-- [thesis-php/grpc-protocol](https://github.com/thesis-php/grpc-protocol) - Shared gRPC protocol runtime for PHP: framing, metadata, status/error model, and encoding/compression primitives used by client and server. (1 day ago)
 - [thesis-php/grpc](https://github.com/thesis-php/grpc) - Non-blocking implementation of gRPC. (1 day ago)
+- [thesis-php/grpc-protocol](https://github.com/thesis-php/grpc-protocol) - Shared gRPC protocol runtime for PHP: framing, metadata, status/error model, and encoding/compression primitives used by client and server. (1 day ago)
+- [thesis-php/opentelemetry-grpc-transport](https://github.com/thesis-php/opentelemetry-grpc-transport) - Pure-PHP gRPC transport for OpenTelemetry over thesis/grpc, no ext-grpc required. (1 day ago)
 
 ---
 
