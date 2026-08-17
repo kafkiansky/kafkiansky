@@ -8,7 +8,7 @@
 
 #### Recent Releases
 
-- [php-testo/testo](https://github.com/php-testo/testo) ([bridge-vcr-0.1.0](https://github.com/php-testo/testo/releases/tag/bridge-vcr-0.1.0), 6 days ago) - The Testing Framework
+- [php-testo/testo](https://github.com/php-testo/testo) ([bridge-vcr-0.1.0](https://github.com/php-testo/testo/releases/tag/bridge-vcr-0.1.0), 1 week ago) - The Testing Framework
 - [thesis-php/grpc-protocol](https://github.com/thesis-php/grpc-protocol) ([0.2.4](https://github.com/thesis-php/grpc-protocol/releases/tag/0.2.4), 1 week ago) - Shared gRPC protocol runtime for PHP: framing, metadata, status/error model, and encoding/compression primitives used by client and server.
 - [thesis-php/grpc](https://github.com/thesis-php/grpc) ([0.2.4](https://github.com/thesis-php/grpc/releases/tag/0.2.4), 1 week ago) - Non-blocking implementation of gRPC.
 
