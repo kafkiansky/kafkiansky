@@ -8,9 +8,9 @@
 
 #### Recent Releases
 
+- [php-testo/testo](https://github.com/php-testo/testo) ([bridge-symfony-console-0.1.12](https://github.com/php-testo/testo/releases/tag/bridge-symfony-console-0.1.12), today) - The Testing Framework
 - [pgmq/pgmq](https://github.com/pgmq/pgmq) ([v1.13.0](https://github.com/pgmq/pgmq/releases/tag/v1.13.0), today) - A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.
 - [thesis-php/nats](https://github.com/thesis-php/nats) ([0.4.2](https://github.com/thesis-php/nats/releases/tag/0.4.2), 5 days ago) - Non-blocking (fiber based) client for Nats.
-- [php-testo/testo](https://github.com/php-testo/testo) ([bridge-symfony-console-0.1.11](https://github.com/php-testo/testo/releases/tag/bridge-symfony-console-0.1.11), 1 week ago) - The Testing Framework
 
 ---
 
