@@ -1,8 +1,8 @@
 #### Recent Contributions
 
-- [thesis-php/protoc-plugin](https://github.com/thesis-php/protoc-plugin) - PHP plugin for protobuf compiler (protoc). (2 days ago)
-- [thesis-php/opentelemetry-grpc-transport](https://github.com/thesis-php/opentelemetry-grpc-transport) - Pure-PHP gRPC transport for OpenTelemetry over thesis/grpc, no ext-grpc required. (1 month ago)
-- [thesis-php/grpc-protocol](https://github.com/thesis-php/grpc-protocol) - Shared gRPC protocol runtime for PHP: framing, metadata, status/error model, and encoding/compression primitives used by client and server. (1 month ago)
+- [thesis-php/grpc-client](https://github.com/thesis-php/grpc-client) - Non-blocking gRPC client for PHP with HTTP/2 transport, streaming RPCs, interceptors, TLS/mTLS, and client-side load balancing. (today)
+- [thesis-php/grpc-server](https://github.com/thesis-php/grpc-server) - Non-blocking gRPC server for PHP with HTTP/2 transport, unary and streaming RPC handlers, interceptors, and graceful shutdown. (today)
+- [thesis-php/grpc](https://github.com/thesis-php/grpc) - Non-blocking implementation of gRPC. (today)
 
 ---
 
