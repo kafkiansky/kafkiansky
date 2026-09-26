@@ -8,7 +8,7 @@
 
 #### Recent Releases
 
-- [php-testo/testo](https://github.com/php-testo/testo) ([bridge-rector-0.3.1](https://github.com/php-testo/testo/releases/tag/bridge-rector-0.3.1), 1 day ago) - The Testing Framework
+- [php-testo/testo](https://github.com/php-testo/testo) ([bridge-rector-0.3.2](https://github.com/php-testo/testo/releases/tag/bridge-rector-0.3.2), today) - The Testing Framework
 - [thesis-php/protoc-plugin](https://github.com/thesis-php/protoc-plugin) ([0.5.1](https://github.com/thesis-php/protoc-plugin/releases/tag/0.5.1), 1 week ago) - PHP plugin for protobuf compiler (protoc).
 - [pgmq/pgmq](https://github.com/pgmq/pgmq) ([v1.13.0](https://github.com/pgmq/pgmq/releases/tag/v1.13.0), 2 weeks ago) - A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.
 
