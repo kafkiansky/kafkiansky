@@ -1,16 +1,16 @@
 #### Recent Contributions
 
+- [thesis-php/etcd](https://github.com/thesis-php/etcd) - Non-blocking PHP client for etcd v3: KV, watch, leases and locks over gRPC. (today)
 - [thesis-php/protoc-plugin](https://github.com/thesis-php/protoc-plugin) - PHP plugin for protobuf compiler (protoc). (today)
-- [thesis-php/grpc-client](https://github.com/thesis-php/grpc-client) - Non-blocking gRPC client for PHP with HTTP/2 transport, streaming RPCs, interceptors, TLS/mTLS, and client-side load balancing. (1 week ago)
-- [thesis-php/grpc-server](https://github.com/thesis-php/grpc-server) - Non-blocking gRPC server for PHP with HTTP/2 transport, unary and streaming RPC handlers, interceptors, and graceful shutdown. (1 week ago)
+- [thesis-php/grpc-server](https://github.com/thesis-php/grpc-server) - Non-blocking gRPC server for PHP with HTTP/2 transport, unary and streaming RPC handlers, interceptors, and graceful shutdown. (today)
 
 ---
 
 #### Recent Releases
 
-- [thesis-php/protoc-plugin](https://github.com/thesis-php/protoc-plugin) ([0.6.0](https://github.com/thesis-php/protoc-plugin/releases/tag/0.6.0), today) - PHP plugin for protobuf compiler (protoc).
-- [php-testo/testo](https://github.com/php-testo/testo) ([bridge-rector-0.3.2](https://github.com/php-testo/testo/releases/tag/bridge-rector-0.3.2), 1 day ago) - The Testing Framework
-- [pgmq/pgmq](https://github.com/pgmq/pgmq) ([v1.13.0](https://github.com/pgmq/pgmq/releases/tag/v1.13.0), 2 weeks ago) - A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.
+- [thesis-php/opentelemetry-grpc-transport](https://github.com/thesis-php/opentelemetry-grpc-transport) ([0.1.0](https://github.com/thesis-php/opentelemetry-grpc-transport/releases/tag/0.1.0), today) - Pure-PHP gRPC transport for OpenTelemetry over thesis/grpc, no ext-grpc required.
+- [thesis-php/grpc-logging](https://github.com/thesis-php/grpc-logging) ([0.1.1](https://github.com/thesis-php/grpc-logging/releases/tag/0.1.1), today) - PSR-3 logging interceptors for thesis/grpc: client &amp; server, unary &amp; stream, with per-status-code log levels.
+- [thesis-php/grpc-auth](https://github.com/thesis-php/grpc-auth) ([0.1.2](https://github.com/thesis-php/grpc-auth/releases/tag/0.1.2), today) - Authentication interceptors for thesis/grpc: pluggable per-call credentials on the client, request verification on the server, unary &amp; stream.
 
 ---
 
