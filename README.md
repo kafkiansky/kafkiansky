@@ -2,7 +2,7 @@
 
 - [thesis-php/etcd](https://github.com/thesis-php/etcd) - Non-blocking PHP client for etcd v3: KV, watch, leases and locks over gRPC. (today)
 - [thesis-php/protoc-plugin](https://github.com/thesis-php/protoc-plugin) - PHP plugin for protobuf compiler (protoc). (today)
-- [thesis-php/grpc-server](https://github.com/thesis-php/grpc-server) - Non-blocking gRPC server for PHP with HTTP/2 transport, unary and streaming RPC handlers, interceptors, and graceful shutdown. (today)
+- [thesis-php/grpc-retry](https://github.com/thesis-php/grpc-retry) - Configurable retry interceptors (unary, stream) for the thesis/grpc-client, with backoff and per-status retry policies. (today)
 
 ---
 
