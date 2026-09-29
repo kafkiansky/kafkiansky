@@ -1,16 +1,16 @@
 #### Recent Contributions
 
-- [thesis-php/etcd](https://github.com/thesis-php/etcd) - Non-blocking PHP client for etcd v3: KV, watch, leases and locks over gRPC. (2 days ago)
-- [thesis-php/protoc-plugin](https://github.com/thesis-php/protoc-plugin) - PHP plugin for protobuf compiler (protoc). (2 days ago)
-- [thesis-php/grpc-retry](https://github.com/thesis-php/grpc-retry) - Configurable retry interceptors (unary, stream) for the thesis/grpc-client, with backoff and per-status retry policies. (2 days ago)
+- [thesis-php/protobuf](https://github.com/thesis-php/protobuf) - A modern strictly typed full-featured serializer for Google&#39;s protocol buffers  (today)
+- [thesis-php/grpc](https://github.com/thesis-php/grpc) - Non-blocking implementation of gRPC. (today)
+- [thesis-php/grpc-client](https://github.com/thesis-php/grpc-client) - Non-blocking gRPC client for PHP with HTTP/2 transport, streaming RPCs, interceptors, TLS/mTLS, and client-side load balancing. (today)
 
 ---
 
 #### Recent Releases
 
-- [thesis-php/opentelemetry-grpc-transport](https://github.com/thesis-php/opentelemetry-grpc-transport) ([0.1.0](https://github.com/thesis-php/opentelemetry-grpc-transport/releases/tag/0.1.0), 2 days ago) - Pure-PHP gRPC transport for OpenTelemetry over thesis/grpc, no ext-grpc required.
-- [thesis-php/grpc-logging](https://github.com/thesis-php/grpc-logging) ([0.1.1](https://github.com/thesis-php/grpc-logging/releases/tag/0.1.1), 2 days ago) - PSR-3 logging interceptors for thesis/grpc: client &amp; server, unary &amp; stream, with per-status-code log levels.
-- [thesis-php/grpc-auth](https://github.com/thesis-php/grpc-auth) ([0.1.2](https://github.com/thesis-php/grpc-auth/releases/tag/0.1.2), 2 days ago) - Authentication interceptors for thesis/grpc: pluggable per-call credentials on the client, request verification on the server, unary &amp; stream.
+- [thesis-php/protobuf](https://github.com/thesis-php/protobuf) ([0.2.1](https://github.com/thesis-php/protobuf/releases/tag/0.2.1), today) - A modern strictly typed full-featured serializer for Google&#39;s protocol buffers 
+- [thesis-php/grpc-client](https://github.com/thesis-php/grpc-client) ([0.3.3](https://github.com/thesis-php/grpc-client/releases/tag/0.3.3), today) - Non-blocking gRPC client for PHP with HTTP/2 transport, streaming RPCs, interceptors, TLS/mTLS, and client-side load balancing.
+- [thesis-php/grpc](https://github.com/thesis-php/grpc) ([0.3.3](https://github.com/thesis-php/grpc/releases/tag/0.3.3), today) - Non-blocking implementation of gRPC.
 
 ---
 
