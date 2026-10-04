@@ -1,8 +1,8 @@
 #### Recent Contributions
 
+- [amphp/http-server](https://github.com/amphp/http-server) - An advanced async HTTP server library for PHP, perfect for real-time apps and APIs with high concurrency demands. (today)
 - [thesis-php/grpc-protocol](https://github.com/thesis-php/grpc-protocol) - Shared gRPC protocol runtime for PHP: framing, metadata, status/error model, and encoding/compression primitives used by client and server. (2 days ago)
 - [thesis-php/grpc-server](https://github.com/thesis-php/grpc-server) - Non-blocking gRPC server for PHP with HTTP/2 transport, unary and streaming RPC handlers, interceptors, and graceful shutdown. (2 days ago)
-- [thesis-php/grpc-client](https://github.com/thesis-php/grpc-client) - Non-blocking gRPC client for PHP with HTTP/2 transport, streaming RPCs, interceptors, TLS/mTLS, and client-side load balancing. (2 days ago)
 
 ---
 
