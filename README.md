@@ -1,16 +1,16 @@
 #### Recent Contributions
 
+- [amphp/byte-stream](https://github.com/amphp/byte-stream) - A non-blocking stream abstraction for PHP based on Amp. (today)
 - [thesis-php/nats](https://github.com/thesis-php/nats) - Non-blocking (fiber based) client for Nats. (2 weeks ago)
-- [thesis-php/grpc-client](https://github.com/thesis-php/grpc-client) - Non-blocking gRPC client for PHP with HTTP/2 transport, streaming RPCs, interceptors, TLS/mTLS, and client-side load balancing. (2 weeks ago)
-- [thesis-php/grpc](https://github.com/thesis-php/grpc) - Non-blocking implementation of gRPC. (2 weeks ago)
+- [thesis-php/grpc-server](https://github.com/thesis-php/grpc-server) - Non-blocking gRPC server for PHP with HTTP/2 transport, unary and streaming RPC handlers, interceptors, and graceful shutdown. (2 weeks ago)
 
 ---
 
 #### Recent Releases
 
+- [amphp/byte-stream](https://github.com/amphp/byte-stream) ([v2.1.3](https://github.com/amphp/byte-stream/releases/tag/v2.1.3), today) - A non-blocking stream abstraction for PHP based on Amp.
 - [pgmq/pgmq](https://github.com/pgmq/pgmq) ([v1.13.1](https://github.com/pgmq/pgmq/releases/tag/v1.13.1), 1 week ago) - A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.
 - [php-testo/testo](https://github.com/php-testo/testo) ([codecov-0.2.5](https://github.com/php-testo/testo/releases/tag/codecov-0.2.5), 2 weeks ago) - The Testing Framework
-- [thesis-php/grpc-client](https://github.com/thesis-php/grpc-client) ([0.4.0](https://github.com/thesis-php/grpc-client/releases/tag/0.4.0), 2 weeks ago) - Non-blocking gRPC client for PHP with HTTP/2 transport, streaming RPCs, interceptors, TLS/mTLS, and client-side load balancing.
 
 ---
 
