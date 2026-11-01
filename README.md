@@ -8,9 +8,9 @@
 
 #### Recent Releases
 
+- [amphp/http-server](https://github.com/amphp/http-server) ([v3.4.8](https://github.com/amphp/http-server/releases/tag/v3.4.8), today) - An advanced async HTTP server library for PHP, perfect for real-time apps and APIs with high concurrency demands.
 - [amphp/byte-stream](https://github.com/amphp/byte-stream) ([v2.1.3](https://github.com/amphp/byte-stream/releases/tag/v2.1.3), 1 day ago) - A non-blocking stream abstraction for PHP based on Amp.
 - [pgmq/pgmq](https://github.com/pgmq/pgmq) ([v1.13.1](https://github.com/pgmq/pgmq/releases/tag/v1.13.1), 1 week ago) - A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.
-- [php-testo/testo](https://github.com/php-testo/testo) ([codecov-0.2.5](https://github.com/php-testo/testo/releases/tag/codecov-0.2.5), 2 weeks ago) - The Testing Framework
 
 ---
 
