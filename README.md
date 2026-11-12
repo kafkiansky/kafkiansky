@@ -1,6 +1,6 @@
 #### Recent Contributions
 
-- [thesis-php/nats](https://github.com/thesis-php/nats) - Non-blocking (fiber based) client for Nats. (1 day ago)
+- [thesis-php/nats](https://github.com/thesis-php/nats) - Non-blocking (fiber based) client for Nats. (today)
 - [amphp/http-client](https://github.com/amphp/http-client) - An advanced async HTTP client library for PHP, enabling efficient, non-blocking, and concurrent requests and responses. (3 days ago)
 - [amphp/byte-stream](https://github.com/amphp/byte-stream) - A non-blocking stream abstraction for PHP based on Amp. (1 week ago)
 
