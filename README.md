@@ -8,9 +8,9 @@
 
 #### Recent Releases
 
+- [php-testo/testo](https://github.com/php-testo/testo) ([bridge-rector-0.3.4](https://github.com/php-testo/testo/releases/tag/bridge-rector-0.3.4), today) - The Testing Framework
 - [thesis-php/nats](https://github.com/thesis-php/nats) ([0.5.0](https://github.com/thesis-php/nats/releases/tag/0.5.0), 4 days ago) - Non-blocking (fiber based) client for Nats.
 - [amphp/http-client](https://github.com/amphp/http-client) ([v5.3.8](https://github.com/amphp/http-client/releases/tag/v5.3.8), 4 days ago) - An advanced async HTTP client library for PHP, enabling efficient, non-blocking, and concurrent requests and responses.
-- [amphp/http-server](https://github.com/amphp/http-server) ([v3.4.8](https://github.com/amphp/http-server/releases/tag/v3.4.8), 2 weeks ago) - An advanced async HTTP server library for PHP, perfect for real-time apps and APIs with high concurrency demands.
 
 ---
 
