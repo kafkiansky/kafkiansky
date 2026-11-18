@@ -8,9 +8,9 @@
 
 #### Recent Releases
 
-- [php-testo/testo](https://github.com/php-testo/testo) ([bridge-rector-0.3.5](https://github.com/php-testo/testo/releases/tag/bridge-rector-0.3.5), 1 day ago) - The Testing Framework
+- [php-testo/testo](https://github.com/php-testo/testo) ([error-handler-0.1.1](https://github.com/php-testo/testo/releases/tag/error-handler-0.1.1), today) - The Testing Framework
+- [pgmq/pgmq](https://github.com/pgmq/pgmq) ([v1.13.2](https://github.com/pgmq/pgmq/releases/tag/v1.13.2), today) - A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.
 - [amphp/http-server](https://github.com/amphp/http-server) ([v3.4.9](https://github.com/amphp/http-server/releases/tag/v3.4.9), 1 day ago) - An advanced async HTTP server library for PHP, perfect for real-time apps and APIs with high concurrency demands.
-- [thesis-php/nats](https://github.com/thesis-php/nats) ([0.5.0](https://github.com/thesis-php/nats/releases/tag/0.5.0), 1 week ago) - Non-blocking (fiber based) client for Nats.
 
 ---
 
