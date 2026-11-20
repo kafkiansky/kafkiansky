@@ -1,15 +1,15 @@
 #### Recent Contributions
 
-- [thesis-php/protobuf](https://github.com/thesis-php/protobuf) - A modern strictly typed full-featured serializer for Google&#39;s protocol buffers  (2 days ago)
-- [thesis-php/nats](https://github.com/thesis-php/nats) - Non-blocking (fiber based) client for Nats. (2 days ago)
+- [thesis-php/protobuf](https://github.com/thesis-php/protobuf) - A modern strictly typed full-featured serializer for Google&#39;s protocol buffers  (3 days ago)
+- [thesis-php/nats](https://github.com/thesis-php/nats) - Non-blocking (fiber based) client for Nats. (3 days ago)
 - [amphp/http-client](https://github.com/amphp/http-client) - An advanced async HTTP client library for PHP, enabling efficient, non-blocking, and concurrent requests and responses. (1 week ago)
 
 ---
 
 #### Recent Releases
 
-- [php-testo/testo](https://github.com/php-testo/testo) ([bridge-double-0.1.3](https://github.com/php-testo/testo/releases/tag/bridge-double-0.1.3), today) - The Testing Framework
-- [amphp/http-server](https://github.com/amphp/http-server) ([v3.4.9](https://github.com/amphp/http-server/releases/tag/v3.4.9), 2 days ago) - An advanced async HTTP server library for PHP, perfect for real-time apps and APIs with high concurrency demands.
+- [php-testo/testo](https://github.com/php-testo/testo) ([bridge-double-0.1.3](https://github.com/php-testo/testo/releases/tag/bridge-double-0.1.3), 1 day ago) - The Testing Framework
+- [amphp/http-server](https://github.com/amphp/http-server) ([v3.4.9](https://github.com/amphp/http-server/releases/tag/v3.4.9), 3 days ago) - An advanced async HTTP server library for PHP, perfect for real-time apps and APIs with high concurrency demands.
 - [thesis-php/nats](https://github.com/thesis-php/nats) ([0.5.0](https://github.com/thesis-php/nats/releases/tag/0.5.0), 1 week ago) - Non-blocking (fiber based) client for Nats.
 
 ---
