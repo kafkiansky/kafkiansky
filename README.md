@@ -8,9 +8,9 @@
 
 #### Recent Releases
 
+- [amphp/http-server](https://github.com/amphp/http-server) ([v3.4.10](https://github.com/amphp/http-server/releases/tag/v3.4.10), today) - An advanced async HTTP server library for PHP, perfect for real-time apps and APIs with high concurrency demands.
+- [amphp/byte-stream](https://github.com/amphp/byte-stream) ([v2.1.4](https://github.com/amphp/byte-stream/releases/tag/v2.1.4), today) - A non-blocking stream abstraction for PHP based on Amp.
 - [thesis-php/protobuf](https://github.com/thesis-php/protobuf) ([0.2.3](https://github.com/thesis-php/protobuf/releases/tag/0.2.3), today) - A modern strictly typed full-featured serializer for Google&#39;s protocol buffers 
-- [thesis-php/protoc-plugin](https://github.com/thesis-php/protoc-plugin) ([0.6.2](https://github.com/thesis-php/protoc-plugin/releases/tag/0.6.2), today) - PHP plugin for protobuf compiler (protoc).
-- [php-testo/testo](https://github.com/php-testo/testo) ([bridge-double-0.1.3](https://github.com/php-testo/testo/releases/tag/bridge-double-0.1.3), 3 days ago) - The Testing Framework
 
 ---
 
