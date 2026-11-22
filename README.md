@@ -1,6 +1,6 @@
 #### Recent Contributions
 
-- [thesis-php/protobuf](https://github.com/thesis-php/protobuf) - A modern strictly typed full-featured serializer for Google&#39;s protocol buffers  (5 days ago)
+- [thesis-php/protobuf](https://github.com/thesis-php/protobuf) - A modern strictly typed full-featured serializer for Google&#39;s protocol buffers  (today)
 - [thesis-php/nats](https://github.com/thesis-php/nats) - Non-blocking (fiber based) client for Nats. (5 days ago)
 - [amphp/http-client](https://github.com/amphp/http-client) - An advanced async HTTP client library for PHP, enabling efficient, non-blocking, and concurrent requests and responses. (1 week ago)
 
