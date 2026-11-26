@@ -1,6 +1,6 @@
 #### Recent Contributions
 
-- [thesis-php/kafka](https://github.com/thesis-php/kafka) - Feature complete, pure async PHP library for Kafka. (1 day ago)
+- [thesis-php/kafka](https://github.com/thesis-php/kafka) - Feature complete, pure async PHP library for Kafka. (today)
 - [thesis-php/protobuf](https://github.com/thesis-php/protobuf) - A modern strictly typed full-featured serializer for Google&#39;s protocol buffers  (1 day ago)
 - [thesis-php/protoc-plugin](https://github.com/thesis-php/protoc-plugin) - PHP plugin for protobuf compiler (protoc). (2 days ago)
 
